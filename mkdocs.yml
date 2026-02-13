@@ -1,0 +1,92 @@
+site_name: EPIC Summer 2026
+site_description: "Exploring Particle Physics Integrated with Computing — University of Mississippi"
+site_url: https://YOUR-GITHUB-ORG.github.io/epic-summer-2026/
+repo_url: https://github.com/YOUR-GITHUB-ORG/epic-summer-2026
+repo_name: epic-summer-2026
+edit_uri: ""
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  custom_dir: docs/overrides
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Schedule: schedule.md
+  - Before You Arrive: before-you-arrive.md
+  - Setup:
+      - Overview: setup/index.md
+      - Running Notebooks: setup/jupyter.md
+      - Using GitHub: setup/github.md
+  - Notebooks:
+      - This Week's Notebooks: notebooks/index.md
+      - "Day 1: Welcome & Tools": notebooks/day1.md
+      - "Day 2: Neutrino Physics": notebooks/day2.md
+      - "Day 3: B-Meson Physics": notebooks/day3.md
+      - "Day 4: Deep Dives": notebooks/day4.md
+  - Physics Background:
+      - Neutrinos: physics/neutrinos.md
+      - B Mesons & CP Violation: physics/bphysics.md
+  - FAQ: faq.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/YOUR-GITHUB-ORG/epic-summer-2026
+      name: EPIC on GitHub
+  generator: false
+
+copyright: "&copy; 2026 University of Mississippi — MESH Program"
