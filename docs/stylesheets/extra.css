@@ -59,6 +59,13 @@
   color: white;
 }
 
+/* Top prev/next navigation */
+.top-page-nav {
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.5rem;
+}
+
 /* Colab / Binder badge buttons */
 .badge-row {
   display: flex;
