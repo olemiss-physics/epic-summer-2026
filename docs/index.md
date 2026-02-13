@@ -42,6 +42,19 @@ By Friday you'll have your own histograms showing signals from real particle int
 
 ---
 
+## The experiments
+
+<div class="experiment-logos">
+  <a href="https://www.dunescience.org" target="_blank" rel="noopener">
+    <img src="assets/logos/dune.png" alt="DUNE experiment logo">
+  </a>
+  <a href="https://www.belle2.org" target="_blank" rel="noopener">
+    <img src="assets/logos/belle2.png" alt="Belle II experiment logo">
+  </a>
+</div>
+
+---
+
 ## Your week at a glance
 
 | Day | Focus |

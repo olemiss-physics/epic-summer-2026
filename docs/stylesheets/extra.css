@@ -59,6 +59,28 @@
   color: white;
 }
 
+/* Experiment logos */
+.experiment-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.experiment-logos img {
+  height: 60px;
+  width: auto;
+  object-fit: contain;
+  transition: opacity 0.2s;
+}
+
+.experiment-logos a:hover img {
+  opacity: 0.8;
+}
+
+
 /* Top prev/next navigation */
 .top-page-nav {
   margin-bottom: 1.5rem;
