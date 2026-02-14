@@ -1,22 +1,22 @@
 # Meet the Team
 
-<div class="team-grid">
+<div class="team-grid" markdown>
 
-<div class="team-card">
+<div class="team-card" markdown>
 <div class="team-photo placeholder"></div>
-<div class="team-info">
+<div class="team-info" markdown>
 
 ### Gavin S. Davies
 **Associate Professor, Physics & Astronomy**
 
-Gavin works on the [DUNE](https://www.dunescience.org) experiment, studying three-flavour neutrino oscillations and searching for non-standard neutrino interactions. He is the lead PI of the MESH grant and coordinates the EPIC programme.
+Gavin works on the [DUNE](https://www.dunescience.org) experiment, studying three-flavour neutrino oscillations and searching for non-standard neutrino interactions.
 
 </div>
 </div>
 
-<div class="team-card">
+<div class="team-card" markdown>
 <div class="team-photo placeholder"></div>
-<div class="team-info">
+<div class="team-info" markdown>
 
 ### Jake V. Bennett
 **Associate Professor, Physics & Astronomy**
@@ -26,9 +26,9 @@ Jake works on the [Belle II](https://www.belle2.org) experiment at the SuperKEKB
 </div>
 </div>
 
-<div class="team-card placeholder-card">
+<div class="team-card placeholder-card" markdown>
 <div class="team-photo placeholder"></div>
-<div class="team-info">
+<div class="team-info" markdown>
 
 ### *Graduate Student TBD*
 **PhD Researcher**
@@ -38,9 +38,9 @@ A graduate student from our group will help mentor participants through the hand
 </div>
 </div>
 
-<div class="team-card placeholder-card">
+<div class="team-card placeholder-card" markdown>
 <div class="team-photo placeholder"></div>
-<div class="team-info">
+<div class="team-info" markdown>
 
 ### *Guest Speaker TBD*
 **Invited Researcher**
