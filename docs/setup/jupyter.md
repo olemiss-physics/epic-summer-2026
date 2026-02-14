@@ -49,21 +49,41 @@ Click a Binder badge on any [Notebook page](../notebooks/index.md) to launch tha
 
 ## Option 3: Run locally on your own laptop
 
-If you have a laptop with Python installed, you can run notebooks locally.
+If you have a laptop with Python installed, you can run notebooks locally. First, open a **terminal** (on macOS: *Terminal* in Applications → Utilities; on Windows: *PowerShell* or *Git Bash*).
+
+**First time setup**
 
 ```bash
-# Install Jupyter if you don't have it
-pip install notebook
-
 # Clone the MESH repository
 git clone https://github.com/YOUR-GITHUB-ORG/MESH
 cd MESH
+
+# Create a virtual environment
+python3 -m venv .venv
+
+# Activate it
+source .venv/bin/activate          # macOS / Linux
+# .venv\Scripts\activate           # Windows (use this line instead)
+
+# Install dependencies
+pip install notebook
 
 # Start Jupyter
 jupyter notebook
 ```
 
 Then open `localhost:8888` in your browser.
+
+**Returning later**
+
+You don't need to reinstall anything. Just open a terminal, navigate back to the folder, activate the environment, and launch:
+
+```bash
+cd MESH
+source .venv/bin/activate          # macOS / Linux
+# .venv\Scripts\activate           # Windows
+jupyter notebook
+```
 
 !!! note
     We won't use this option during the program — the Chromebooks don't support local installs. But if you want to continue working at home after the program, this is the way to go.
