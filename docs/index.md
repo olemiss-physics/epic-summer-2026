@@ -79,4 +79,4 @@ Check out the [Before You Arrive](before-you-arrive.md) page for logistics, what
 
 ---
 
-<small>EPIC Summer 2026 is supported by the U.S. Department of Energy EPSCoR Implementation Grant DE-SC0026215.</small>
+<small>EPIC Summer 2026 is a programme of the **Department of Physics & Astronomy, University of Mississippi**, supported by the U.S. Department of Energy EPSCoR Implementation Grant DE-SC0026215.</small>
