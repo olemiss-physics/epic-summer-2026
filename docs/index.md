@@ -76,3 +76,7 @@ Check out the [Before You Arrive](before-you-arrive.md) page for logistics, what
 
 !!! tip "First time here?"
     Start with **[Before You Arrive](before-you-arrive.md)**, then work through the **[Setup](setup/index.md)** guide so you're ready to go on Monday morning.
+
+---
+
+<small>EPIC Summer 2026 is supported by the U.S. Department of Energy EPSCoR Implementation Grant DE-SC0026215.</small>
