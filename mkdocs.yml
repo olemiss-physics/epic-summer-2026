@@ -65,6 +65,7 @@ nav:
   - Physics Background:
       - Neutrinos: physics/neutrinos.md
       - B Mesons & CP Violation: physics/bphysics.md
+  - Meet the Team: team.md
   - FAQ: faq.md
 
 markdown_extensions:

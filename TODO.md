@@ -25,5 +25,6 @@
 
 ## Nice to have
 
-- [ ] Add a "Meet the team" or instructors page
+- [x] Add a "Meet the team" or instructors page
+- [ ] Add photos to team page once available
 - [ ] Add a NOvA physics background page to match the neutrinos and B-physics pages
