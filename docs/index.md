@@ -32,7 +32,7 @@ Use Jupyter notebooks to load, explore, and plot real detector data — the same
 </div>
 <div class="card" markdown>
 ### :atom: Study two experiments
-Investigate **neutrino oscillations** with NOvA, and **matter-antimatter asymmetry** with Belle II — two of the biggest open questions in physics.
+Investigate **neutrino oscillations** with DUNE, and **matter-antimatter asymmetry** with Belle II — two of the biggest open questions in physics.
 </div>
 <div class="card" markdown>
 ### :bar_chart: Make real discoveries
