@@ -67,3 +67,46 @@ After pushing, open `github.com/YOUR-USERNAME/MESH` in your browser. You should 
 
 !!! question "Something went wrong?"
     Git can be confusing at first. Ask a TA or instructor — we've all been there. The most common issues have easy fixes.
+
+---
+
+## Taking notes in Markdown
+
+One of the best habits you can build this week is keeping a running notes file alongside your code. We recommend writing notes in **Markdown** — the same format this site is written in — and saving them to your repository so they're always backed up and readable on GitHub.
+
+**Create your notes file**
+
+In the terminal, inside your MESH folder:
+
+```bash
+touch notes.md
+```
+
+Then open it in any text editor (in Colab or JupyterHub: **File → Open** and select `notes.md`).
+
+**What to write**
+
+You don't need to write essays — short bullets are fine:
+
+```markdown
+## Day 2 — Neutrinos
+
+- neutrinos have mass but the Standard Model said they shouldn't
+- oscillation probability dips at certain energies — that's the signal!
+- our far detector histogram showed the dip around 1.5 GeV
+- Q: why does the near detector not show the dip?
+```
+
+**Why Markdown?**
+
+Markdown files render automatically on GitHub — headings, bold text, bullet points and all. After you push, open `github.com/YOUR-USERNAME/MESH/notes.md` and you'll see a nicely formatted page, not raw text.
+
+**Include your notes in every commit**
+
+```bash
+git add notes.md
+git commit -m "Day 2 notes: neutrino oscillation observations"
+git push
+```
+
+By the end of the week you'll have a personal record of everything you learned — in your own words, saved permanently to your GitHub profile.
