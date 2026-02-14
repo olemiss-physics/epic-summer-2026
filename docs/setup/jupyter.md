@@ -49,7 +49,13 @@ Click a Binder badge on any [Notebook page](../notebooks/index.md) to launch tha
 
 ## Option 3: Run locally on your own laptop
 
-If you have a laptop with Python installed, you can run notebooks locally. First, open a **terminal** (on macOS: *Terminal* in Applications → Utilities; on Windows: *PowerShell* or *Git Bash*).
+If you have a laptop with Python installed, you can run notebooks locally.
+
+**Open a terminal**
+
+- **macOS:** *Terminal* in Applications → Utilities
+- **Linux:** any terminal emulator
+- **Windows:** we recommend [WSL2 with Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/install). Once installed, open the *Ubuntu* app — the commands below will work as-is inside it.
 
 **First time setup**
 
@@ -62,8 +68,7 @@ cd MESH
 python3 -m venv .venv
 
 # Activate it
-source .venv/bin/activate          # macOS / Linux
-# .venv\Scripts\activate           # Windows (use this line instead)
+source .venv/bin/activate
 
 # Install dependencies
 pip install notebook
@@ -80,8 +85,7 @@ You don't need to reinstall anything. Just open a terminal, navigate back to the
 
 ```bash
 cd MESH
-source .venv/bin/activate          # macOS / Linux
-# .venv\Scripts\activate           # Windows
+source .venv/bin/activate
 jupyter notebook
 ```
 
