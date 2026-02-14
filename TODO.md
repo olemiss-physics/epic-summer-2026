@@ -14,6 +14,10 @@
 - [ ] Add grad student bios / speaker lineup for Thursday talks
 - [ ] Add housing/dorm details to `before-you-arrive.md` once confirmed
 
+## Acknowledgements
+
+- [ ] Add UMCMA acknowledgement if they contribute funding
+
 ## Nice to have
 
 - [ ] Add a "Meet the team" or instructors page
