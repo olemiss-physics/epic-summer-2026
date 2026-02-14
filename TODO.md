@@ -18,6 +18,11 @@
 
 - [ ] Add UMCMA acknowledgement if they contribute funding
 
+## Feedback
+
+- [ ] Get feedback on the site from collaborators / students before launch
+- [ ] Get feedback on bubble-chamber background animation (keep? tweak? remove?)
+
 ## Nice to have
 
 - [ ] Add a "Meet the team" or instructors page
