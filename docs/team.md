@@ -6,7 +6,7 @@
 <div class="team-photo placeholder"></div>
 <div class="team-info" markdown>
 
-### Gavin S. Davies
+### Dr. Gavin S. Davies
 **Associate Professor, Physics & Astronomy**
 
 Gavin works on the [DUNE](https://www.dunescience.org) experiment, studying three-flavour neutrino oscillations and searching for non-standard neutrino interactions.
@@ -18,7 +18,7 @@ Gavin works on the [DUNE](https://www.dunescience.org) experiment, studying thre
 <div class="team-photo placeholder"></div>
 <div class="team-info" markdown>
 
-### Jake V. Bennett
+### Dr. Jake V. Bennett
 **Associate Professor, Physics & Astronomy**
 
 Jake works on the [Belle II](https://www.belle2.org) experiment at the SuperKEKB collider in Japan, measuring CP violation in charmed baryon decays and probing the matter-antimatter asymmetry of the universe.
