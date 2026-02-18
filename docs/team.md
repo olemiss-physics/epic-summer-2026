@@ -26,6 +26,18 @@ Jake works on the [Belle II](https://www.belle2.org) experiment at the SuperKEKB
 </div>
 </div>
 
+<div class="team-card" markdown>
+<div class="team-photo placeholder"></div>
+<div class="team-info" markdown>
+
+### Suyog Badal
+**Undergraduate Student Helper**
+
+Suyog helps with participant support, logistics, and making sure the daily sessions run smoothly.
+
+</div>
+</div>
+
 <div class="team-card placeholder-card" markdown>
 <div class="team-photo placeholder"></div>
 <div class="team-info" markdown>
