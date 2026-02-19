@@ -26,5 +26,6 @@
 ## Nice to have
 
 - [x] Add a "Meet the team" or instructors page
+- [ ] Update Suyog's bio ad title `team.md`
 - [ ] Add photos to team page once available
 - [ ] Add a NOvA physics background page to match the neutrinos and B-physics pages
