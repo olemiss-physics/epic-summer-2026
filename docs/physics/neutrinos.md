@@ -12,6 +12,8 @@ That's because neutrinos are nearly massless and carry no electric charge. They 
 
 The result: a neutrino can pass through a light-year of solid lead and only have a 50% chance of interacting. Detecting them requires enormous detectors — and a lot of patience.
 
+Intresting fact: A banana radiates about 1.2 million neutrino each seconds (radioactivity of Potassium).
+
 ---
 
 ## Three flavors
@@ -25,6 +27,36 @@ Neutrinos come in three varieties — called **flavors** — each associated wit
 | Tau neutrino (ντ) | Tau |
 
 For most of the 20th century, physicists assumed these were distinct, fixed identities. Then came a surprise.
+
+---
+
+## History of Neutrinos:
+
+=== "The Birth of an Idea (1930–1939)"
+    - 1930 – Wolfgang Pauli hypothesized a mysterious particle.
+    - 1934 – Enrico Fermi named it “neutrino”.
+    - 1935–1939 – Goeppert Mayer & Majorana predicted double beta decay (two neutrinos emitted) and suggested neutrinos could be their own antiparticles (Majorana particles).
+
+=== "Catching the Ghost (1956–1968)"
+    - 1956 – First detection by Reines & Cowan using a nuclear reactor.
+    - 1957 – Bruno Pontecorvo predicted neutrino oscillations.
+    - 1958 – Left-handed property discovered, a property by their spin.
+    - 1962 – Muon Neutrino Discovered: Scientists discovered a second type of neutrino.
+    - 1968 – Solar Neutrinos: Ray Davis detected neutrinos from the Sun, but found only 1/3 of expected, sparking the solar neutrino problem.
+
+=== "Lab Discoveries (1973–2000)"
+    - 1973 – Neutral currents at CERN showed the existence of a new force carrier, **Z boson**.
+    - 1975 – Tau neutrino predicted, discovered in 2000.
+    - 1985–1987 – Atmospheric & supernova neutrinos observed.
+    - 1998 - Neutrino Oscillation confirmed, Super-Kamiokande proved neutrinos have mass.
+
+=== "21st century: Csomic Messenger(2002-2020)"
+    - 2002 – Solar Neutrino Mystery Solved: Sudbury Neutrino Observatory confirmed neutrinos change flavor on the way to Earth.
+    - 2005 – Geoneutrinos Discovered: Neutrinos from Earth’s interior reveal hidden radioactive processes.
+    - 2010–2015 – Neutrino Oscillations & OPERA: Muon neutrinos transform into tau neutrinos; oscillation discovery earns Nobel Prize.
+    - 2012 – Big Bird Neutrino: IceCube detects the highest-energy neutrino ever.
+    - 2017–2018 – Neutrinos Point to Cosmic Accelerators: IceCube traces a neutrino back to a blazar 4 billion light-years away, ushering in multimessenger astronomy.
+    - 2020 – Sun’s Hidden Fusion Cycle: Borexino detects neutrinos from the CNO cycle, confirming a long-standing prediction about solar fusion.
 
 ---
 
