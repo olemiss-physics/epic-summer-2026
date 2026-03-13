@@ -74,6 +74,15 @@ Don't worry about the details — the key insight is that the survival probabili
 
 ---
 
+## Standard Model of Particle physics: 
+
+The statndard model of particle physics is scientists' current best theory to describe the most basic building block of universe. It explains how partices called **quarks** make up all known matter.
+![Standard Model of Particle Physics](../assets/particle_img/standard_model.jpeg)
+
+Although the Standard Model successfully explains many fundamental particles and interactions, it is not complete. The Higgs boson gives mass to quarks, charged leptons, and the W and Z bosons, but it does not explain the masses of neutrinos. Experiments have observed Neutrino Oscillation, where neutrinos change from one flavor to another as they travel. This process can only occur if neutrinos have mass, which the Standard Model does not account for, showing that the theory is incomplete. Additionally, most of the universe consists of Dark Matter and Dark Energy, which are also not explained by the Standard Model.
+
+
+
 ## The NOvA experiment
 
 NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measure neutrino oscillations.
