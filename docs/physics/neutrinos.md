@@ -30,7 +30,7 @@ For most of the 20th century, physicists assumed these were distinct, fixed iden
 
 ---
 
-## History of Neutrinos:
+## History of Neutrinos
 
 === "The Birth of an Idea (1930–1939)"
     - 1930 – Wolfgang Pauli hypothesized a mysterious particle.
@@ -74,14 +74,14 @@ Don't worry about the details — the key insight is that the survival probabili
 
 ---
 
-## Standard Model of Particle physics: 
+## Standard Model of Particle physics
 
-The statndard model of particle physics is scientists' current best theory to describe the most basic building block of universe. It explains how partices called **quarks** make up all known matter.
+The standard model of particle physics is scientists' current best theory to describe the most basic building block of universe. It explains how partices called **quarks** make up all known matter.
 ![Standard Model of Particle Physics](../assets/particle_img/standard_model.jpeg)
 
 Although the Standard Model successfully explains many fundamental particles and interactions, it is not complete. The Higgs boson gives mass to quarks, charged leptons, and the W and Z bosons, but it does not explain the masses of neutrinos. Experiments have observed Neutrino Oscillation, where neutrinos change from one flavor to another as they travel. This process can only occur if neutrinos have mass, which the Standard Model does not account for, showing that the theory is incomplete. Additionally, most of the universe consists of Dark Matter and Dark Energy, which are also not explained by the Standard Model.
 
-
+---
 
 ## The NOvA experiment
 
@@ -94,6 +94,16 @@ NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measu
 - By comparing the two, physicists extract the oscillation parameters
 
 The far detector is a 14,000-tonne block of plastic filled with liquid scintillator — it glows faintly when a rare neutrino interaction occurs.
+
+---
+
+## Flavour-eigenstate and Mass-eigenstate
+
+Neutrino Exists in two different states, one is flavor-eigen state and another is mass eigen state.Neutrinos are observed in the three flavors that correspond to the leptons (electron, muon, and tau) that are produced when the neutrinos interact. 
+    
+In the simplest explanation for neutrino flavor change, the three neutrino flavors are quantum mechanical combinations of three neutrino mass states. This means that neutrinos travel as a combination of the three mass states rather than as a single, static flavor.
+
+![Neutrino flavors and mass states](../assets/particle_img/eigenCartoon.png)
 
 ---
 
