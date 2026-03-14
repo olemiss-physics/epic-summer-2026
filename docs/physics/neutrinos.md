@@ -95,6 +95,13 @@ NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measu
 
 The far detector is a 14,000-tonne block of plastic filled with liquid scintillator — it glows faintly when a rare neutrino interaction occurs.
 
+<div style="display:flex; gap:20px;">
+
+<img src="/docs/assets/particle_img/far_detector.png" width="250">
+<img src="/docs/assets/particle_img/near_detector.png" width="250">
+
+</div>
+
 ---
 
 ## Flavour-eigenstate and Mass-eigenstate
