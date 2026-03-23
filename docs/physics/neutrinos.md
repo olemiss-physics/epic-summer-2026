@@ -97,8 +97,8 @@ The far detector is a 14,000-tonne block of plastic filled with liquid scintilla
 
 <div style="display:flex; gap:20px;">
 
-<img src="/docs/assets/particle_img/far_detector.png" width="250">
-<img src="/docs/assets/particle_img/near_detector.png" width="250">
+<img src="../assets/particle_img/far_detector.png" width="250">
+<img src="../assets/particle_img/near_detector.png" width="250">
 
 </div>
 
