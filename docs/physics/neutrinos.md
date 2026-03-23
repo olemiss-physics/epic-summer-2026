@@ -77,7 +77,7 @@ Don't worry about the details — the key insight is that the survival probabili
 ## Standard Model of Particle physics
 
 The standard model of particle physics is scientists' current best theory to describe the most basic building block of universe. It explains how partices called **quarks** make up all known matter.
-![Standard Model of Particle Physics](../assets/particle_img/standard_model.jpeg)
+![Standard Model of Particle Physics](../assets/images/particles/standard_model.jpeg)
 
 Although the Standard Model successfully explains many fundamental particles and interactions, it is not complete. The Higgs boson gives mass to quarks, charged leptons, and the W and Z bosons, but it does not explain the masses of neutrinos. Experiments have observed Neutrino Oscillation, where neutrinos change from one flavor to another as they travel. This process can only occur if neutrinos have mass, which the Standard Model does not account for, showing that the theory is incomplete. Additionally, most of the universe consists of Dark Matter and Dark Energy, which are also not explained by the Standard Model.
 
@@ -95,11 +95,9 @@ NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measu
 
 The far detector is a 14,000-tonne block of plastic filled with liquid scintillator — it glows faintly when a rare neutrino interaction occurs.
 
-<div style="display:flex; gap:20px;">
-
-<img src="/docs/assets/particle_img/far_detector.png" width="250">
-<img src="/docs/assets/particle_img/near_detector.png" width="250">
-
+<div style="display:flex; gap:20px;" markdown>
+![NOvA Far Detector](../assets/images/particles/far_detector.png){ width=250 }
+![NOvA Near Detector](../assets/images/particles/near_detector.png){ width=250 }
 </div>
 
 ---
@@ -110,7 +108,7 @@ Neutrino Exists in two different states, one is flavor-eigen state and another i
     
 In the simplest explanation for neutrino flavor change, the three neutrino flavors are quantum mechanical combinations of three neutrino mass states. This means that neutrinos travel as a combination of the three mass states rather than as a single, static flavor.
 
-![Neutrino flavors and mass states](../assets/particle_img/eigenCartoon.png)
+![Neutrino flavors and mass states](../assets/images/particles/eigenCartoon.png)
 
 ---
 

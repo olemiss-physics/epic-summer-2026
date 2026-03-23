@@ -28,4 +28,5 @@
 - [x] Add a "Meet the team" or instructors page
 - [ ] Update Suyog's bio ad title `team.md`
 - [ ] Add photos to team page once available
+- [ ] Suyog: add image credits for particle images in `physics/neutrinos.md`
 - [ ] Add a NOvA physics background page to match the neutrinos and B-physics pages
