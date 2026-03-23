@@ -12,6 +12,8 @@ That's because neutrinos are nearly massless and carry no electric charge. They 
 
 The result: a neutrino can pass through a light-year of solid lead and only have a 50% chance of interacting. Detecting them requires enormous detectors — and a lot of patience.
 
+Intresting fact: A banana radiates about 1.2 million neutrino each seconds (radioactivity of Potassium).
+
 ---
 
 ## Three flavors
@@ -25,6 +27,36 @@ Neutrinos come in three varieties — called **flavors** — each associated wit
 | Tau neutrino (ντ) | Tau |
 
 For most of the 20th century, physicists assumed these were distinct, fixed identities. Then came a surprise.
+
+---
+
+## History of Neutrinos
+
+=== "The Birth of an Idea (1930–1939)"
+    - 1930 – Wolfgang Pauli hypothesized a mysterious particle.
+    - 1934 – Enrico Fermi named it “neutrino”.
+    - 1935–1939 – Goeppert Mayer & Majorana predicted double beta decay (two neutrinos emitted) and suggested neutrinos could be their own antiparticles (Majorana particles).
+
+=== "Catching the Ghost (1956–1968)"
+    - 1956 – First detection by Reines & Cowan using a nuclear reactor.
+    - 1957 – Bruno Pontecorvo predicted neutrino oscillations.
+    - 1958 – Left-handed property discovered, a property by their spin.
+    - 1962 – Muon Neutrino Discovered: Scientists discovered a second type of neutrino.
+    - 1968 – Solar Neutrinos: Ray Davis detected neutrinos from the Sun, but found only 1/3 of expected, sparking the solar neutrino problem.
+
+=== "Lab Discoveries (1973–2000)"
+    - 1973 – Neutral currents at CERN showed the existence of a new force carrier, **Z boson**.
+    - 1975 – Tau neutrino predicted, discovered in 2000.
+    - 1985–1987 – Atmospheric & supernova neutrinos observed.
+    - 1998 - Neutrino Oscillation confirmed, Super-Kamiokande proved neutrinos have mass.
+
+=== "21st century: Csomic Messenger(2002-2020)"
+    - 2002 – Solar Neutrino Mystery Solved: Sudbury Neutrino Observatory confirmed neutrinos change flavor on the way to Earth.
+    - 2005 – Geoneutrinos Discovered: Neutrinos from Earth’s interior reveal hidden radioactive processes.
+    - 2010–2015 – Neutrino Oscillations & OPERA: Muon neutrinos transform into tau neutrinos; oscillation discovery earns Nobel Prize.
+    - 2012 – Big Bird Neutrino: IceCube detects the highest-energy neutrino ever.
+    - 2017–2018 – Neutrinos Point to Cosmic Accelerators: IceCube traces a neutrino back to a blazar 4 billion light-years away, ushering in multimessenger astronomy.
+    - 2020 – Sun’s Hidden Fusion Cycle: Borexino detects neutrinos from the CNO cycle, confirming a long-standing prediction about solar fusion.
 
 ---
 
@@ -42,6 +74,15 @@ Don't worry about the details — the key insight is that the survival probabili
 
 ---
 
+## Standard Model of Particle physics
+
+The standard model of particle physics is scientists' current best theory to describe the most basic building block of universe. It explains how partices called **quarks** make up all known matter.
+![Standard Model of Particle Physics](../assets/particle_img/standard_model.jpeg)
+
+Although the Standard Model successfully explains many fundamental particles and interactions, it is not complete. The Higgs boson gives mass to quarks, charged leptons, and the W and Z bosons, but it does not explain the masses of neutrinos. Experiments have observed Neutrino Oscillation, where neutrinos change from one flavor to another as they travel. This process can only occur if neutrinos have mass, which the Standard Model does not account for, showing that the theory is incomplete. Additionally, most of the universe consists of Dark Matter and Dark Energy, which are also not explained by the Standard Model.
+
+---
+
 ## The NOvA experiment
 
 NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measure neutrino oscillations.
@@ -53,6 +94,23 @@ NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measu
 - By comparing the two, physicists extract the oscillation parameters
 
 The far detector is a 14,000-tonne block of plastic filled with liquid scintillator — it glows faintly when a rare neutrino interaction occurs.
+
+<div style="display:flex; gap:20px;">
+
+<img src="/docs/assets/particle_img/far_detector.png" width="250">
+<img src="/docs/assets/particle_img/near_detector.png" width="250">
+
+</div>
+
+---
+
+## Flavour-eigenstate and Mass-eigenstate
+
+Neutrino Exists in two different states, one is flavor-eigen state and another is mass eigen state.Neutrinos are observed in the three flavors that correspond to the leptons (electron, muon, and tau) that are produced when the neutrinos interact. 
+    
+In the simplest explanation for neutrino flavor change, the three neutrino flavors are quantum mechanical combinations of three neutrino mass states. This means that neutrinos travel as a combination of the three mass states rather than as a single, static flavor.
+
+![Neutrino flavors and mass states](../assets/particle_img/eigenCartoon.png)
 
 ---
 

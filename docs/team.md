@@ -27,13 +27,13 @@ Jake works on the [Belle II](https://www.belle2.org) experiment at the SuperKEKB
 </div>
 
 <div class="team-card" markdown>
-<div class="team-photo placeholder"></div>
+<div class="team-photo">![Suyog](assets/images/team/Suyog.jpeg)</div>
 <div class="team-info" markdown>
 
 ### Suyog Badal
 **Undergraduate Student Helper**
 
-Suyog helps with participant support, logistics, and making sure the daily sessions run smoothly.
+Suyog is an undergraduate physics student working on neutrino oscillation analysis with the NOvA experiment. He helps support participants, coordinate logistics, and assist with daily analysis sessions.
 
 </div>
 </div>
