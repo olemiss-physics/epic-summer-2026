@@ -46,10 +46,10 @@ By Friday you'll have your own histograms showing signals from real particle int
 
 <div class="experiment-logos">
   <a href="https://www.dunescience.org" target="_blank" rel="noopener">
-    <img src="assets/logos/dune.png" alt="DUNE experiment logo">
+    <img src="/assets/logos/dune.png" alt="DUNE experiment logo">
   </a>
   <a href="https://www.belle2.org" target="_blank" rel="noopener">
-    <img src="assets/logos/belle2.png" alt="Belle II experiment logo">
+    <img src="/assets/logos/belle2.png" alt="Belle II experiment logo">
   </a>
 </div>
 

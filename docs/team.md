@@ -27,7 +27,7 @@ Jake works on the [Belle II](https://www.belle2.org) experiment at the SuperKEKB
 </div>
 
 <div class="team-card" markdown>
-<div class="team-photo" markdown>![Suyog](assets/images/team/Suyog.jpeg)</div>
+<div class="team-photo" markdown>![Suyog](/assets/images/team/Suyog.jpeg)</div>
 <div class="team-info" markdown>
 
 ### Suyog Badal
