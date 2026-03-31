@@ -93,13 +93,11 @@ NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measu
 - The large **far detector** in Minnesota measures it after significant oscillation has occurred
 - By comparing the two, physicists extract the oscillation parameters
 
-The far detector is a 14,000-tonne block of plastic filled with liquid scintillator — it glows faintly when a rare neutrino interaction occurs.
+<div style="display:flex; gap:20px;" markdown="1">
 
-<div style="display:flex; gap:20px;">
-
-<img src="/docs/assets/particle_img/far_detector.png" width="250">
-<img src="/docs/assets/particle_img/near_detector.png" width="250">
-
+| ![Far Detector](../assets/particle_img/far_detector.png){ width=420 } | ![Near Detector](../assets/particle_img/near_detector.png){ width=420 } |
+|:--:|:--:|
+| **Far Detector** | **Near Detector** |
 </div>
 
 ---
