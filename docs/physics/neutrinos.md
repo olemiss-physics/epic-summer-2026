@@ -102,6 +102,17 @@ NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measu
 
 ---
 
+## Working mechanism of detector
+
+![accelerator](../assets/particle_img/accelerator.png){ align=right }
+
+- A proton beam is accelerated to 120GeV in a particle accelerator. This high high-energy proton beam is then injected into a graphite target approximately 1 meter in length.
+- When the protons strike the target, they produce secondary mesons, mainly pions. These pions decay into muons and muon neutrinos. Since muons are charged particles, they can be guided using a magnetic field. The resulting muon neutrinos, which travel in the same general direction as the muons, form the neutrino beam.
+- This neutrino beam first passes through the Near Detector, and then continues toward the Far Detector, 810 km away.
+- When a neutrino strikes an atom in the liquid scintillator, it produces a burst of charged particles. As these charged particles come to rest in the detector, their energy is collected using wavelength-shifting fibers connected to photo-detectors. As we will see in the event displays.
+- By analyzing the pattern of light seen by the photo-detectors, scientists can determine: What type of neutrino caused the interaction, the energy of the incoming neutrino.
+
+
 ## Flavour-eigenstate and Mass-eigenstate
 
 Neutrino Exists in two different states, one is flavor-eigen state and another is mass eigen state.Neutrinos are observed in the three flavors that correspond to the leptons (electron, muon, and tau) that are produced when the neutrinos interact. 
@@ -121,6 +132,8 @@ Neutrinos might also hold a clue to why the universe is made of matter (rather t
 ---
 
 ## Histograms in Neutrino Oscillation
+Because neutrinos are so small and have no electric charge, they fly through the entire 14,000-ton NOvA detector without leaving a trace unless they hit an atomic nucleus or an electron inside the liquid scintillator.
+When this happens, it is called a Charged Current (CC) or Neutral Current (NC) interaction. The neutrino disappears (or bounces away). It transfers its energy to a new, charged particle that can be seen by the detector. Later, path of these daughter particle created after collision can be studied and then depending on the track made by the daughter particles, type of neutrinos can be studied.
 
 Basically, most common histogram used in NOvA experiment can be categorized into following three types: 
 
@@ -160,6 +173,71 @@ We use a fiducial volume cut. We basically draw an invisible box inside the dete
 In NOvA, the L/E spectrum tells us exactly "how much" the neutrinos weigh because the position of that dip in the histogram is directly tied to the neutrino's mass ($\Delta m^2$).
 By binning data according to the ratio of distance to energy, we map out the quantum mechanical probability wave of the neutrino. The "dip" in the histogram is the physical manifestation of the $\sin^2$ term in the oscillation formula, providing direct evidence of the mass-squared difference between neutrino states.
 This can be infered from the fomula below: 
-$$P(\nu_\mu \rightarrow \nu_\mu) \approx 1 - \sin^2(2\theta_{23}) \sin^2 \left( 1.27 \frac{\Delta m_{32}^2 \cdot L}{E} \right)$
+$$P(\nu_\mu \rightarrow \nu_\mu) \approx 1 - \sin^2(2\theta_{23}) \sin^2 \left( 1.27 \frac{\Delta m_{32}^2 \cdot L}{E} \right)$$
+
+--- 
+
+## Event Displays in NOvA
+
+<div style="display:flex; gap:20px;" markdown="1">
+
+| ![eventDisplaySize](../assets/particle_img/eventdisplay_size.png){ width=420 } | ![eventDisplay3D](../assets/particle_img/3D_eventdisplay.png){ width=420 } | ![eventDisplayCosmic](../assets/particle_img/eventdis_cosmic.png){ width=420}
+|:--:|:--:|:--:| 
+| **Event Display Size** | **3D of Event Display** | **Detector Reading Cosimc Noises** |
+</div>
+
+### What is an Event Display?
+- A visual representation of a **single interaction** inside the detector  
+- Shows what happened during one **event**  
+- Think of it as a **snapshot of the event**
+
+### What is an Event?
+- A single instance where something happens in the detector  
+- Examples:
+  - Neutrino interaction  
+  - Cosmic ray passing through  
+
+### What Does an Event Display Show?
+- **Hits:** Points where energy is detected  
+- **Tracks:** Straight particle paths (muons)  
+- **Showers:** Spread-out patterns (electrons)  
+- **Colors:** Represent energy or timing  
+
+### How It Works
+- **Interaction:** Particle enters detector  
+- **Detection:** Light signals are recorded  
+- **Reconstruction:** Software finds:
+  - Vertex (interaction point)  
+  - Direction  
+  - Particle type  
+- **Visualization:** Data becomes an image  
+
+### Types of Events
+- **Muon Neutrino (νμ):**
+  - Long, straight track  
+
+- **Electron Neutrino (νe):**
+  - Short, fuzzy shower  
+
+- **Cosmic Ray:**
+  - Usually vertical  
+
+### Why Event Displays Matter
+- Visualize individual events  
+- Identify particle types  
+- Detect noise and background  
+
+### Connection to Histograms
+- Event display → **one event**  
+- Histogram → **many events combined**
+
+### Connection to Cuts
+- Remove vertical tracks (cosmic rays)  
+- Keep beam-direction events  
+
+### Key Idea
+- Event displays help us **see events**  
+- Histograms help us **analyze patterns**
+
 
 *Ready to see the data? Head to [Day 2: Neutrino Physics](../notebooks/day2.md).*
