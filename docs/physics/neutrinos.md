@@ -120,4 +120,46 @@ Neutrinos might also hold a clue to why the universe is made of matter (rather t
 
 ---
 
+## Histograms in Neutrino Oscillation
+
+Basically, most common histogram used in NOvA experiment can be categorized into following three types: 
+
+- Energy Specturm
+- PID Score
+- Vertex Distribution
+- L/E Distribution
+
+### Energy Spectrum: 
+This is the most famous histogram in NOvA. It shows how much energy the neutrinos have when they hit the detector.
+
+- The X-Axis: Neutrino Energy (measured in GeV).
+- The Y-Axis: Number of Neutrinos detected.
+
+In the Near Detector (at Fermilab), we see a tall, smooth mountain of muon neutrinos. But in the Far Detector (810 km away), that mountain has a huge "dip" or "bite" taken out of it. That missing "bite" is the proof of neutrino oscillation. The neutrinos didn't disappear; they changed flavor!
+
+### PID Spectrum: 
+PID stands for Particle Identification. NOvA uses a "CVN" (Convolutional Visual Network)—basically a fancy AI—to look at pictures of particle tracks and guess what they are.
+
+- The X-Axis: Probability Score (from 0 to 1).
+- The Y-Axis: Number of Events.
+
+If the AI is 90% sure an event is an electron neutrino, it puts a count in the 0.9 bin. If it's only 10% sure, it goes in the 0.1 bin.
+To be safe, scientists might say: "We only trust events with a score higher than 0.8." This is a selection cut. It removes the "fakes" and keeps the real signal.
+
+### Vertex Spectrum:
+A "vertex" is the exact point where a neutrino hit an atom and exploded into other particles.
+
+- The X/Y/Z-Axis: The physical location inside the detector.
+- The Y-Axis: Density of interactions.
+
+We expect neutrinos to hit the detector evenly. If we see a huge "spike" of events near the edges of the detector, those aren't neutrinos—those are Cosmic Rays (background noise) leaking in from the outside.
+
+We use a fiducial volume cut. We basically draw an invisible box inside the detector and "cut" any data that happened too close to the walls.
+
+### L/E Specturm: 
+In NOvA, the L/E spectrum tells us exactly "how much" the neutrinos weigh because the position of that dip in the histogram is directly tied to the neutrino's mass ($\Delta m^2$).
+By binning data according to the ratio of distance to energy, we map out the quantum mechanical probability wave of the neutrino. The "dip" in the histogram is the physical manifestation of the $\sin^2$ term in the oscillation formula, providing direct evidence of the mass-squared difference between neutrino states.
+This can be infered from the fomula below: 
+$$P(\nu_\mu \rightarrow \nu_\mu) \approx 1 - \sin^2(2\theta_{23}) \sin^2 \left( 1.27 \frac{\Delta m_{32}^2 \cdot L}{E} \right)$
+
 *Ready to see the data? Head to [Day 2: Neutrino Physics](../notebooks/day2.md).*
