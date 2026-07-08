@@ -2,7 +2,7 @@
 
 **EPIC Summer 2026 — July 13–17, 2026**
 Daily hours: **9:00 AM – 4:00 PM**
-Location: University of Mississippi, Oxford
+Location: **Duff Center for Science and Technology Innovation (CSTI), rooms 135/137, ground floor** ([Open in Ole Miss campus map](https://map.olemiss.edu/?id=562#!m/13272802?share))
 
 ---
 
