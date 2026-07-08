@@ -1,6 +1,6 @@
 # EPIC Summer 2026 — Website
 
-Source for the EPIC Summer 2026 program website, built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
+Source for the EPIC Summer 2026 program website, built with [Zensical](https://zensical.org) (the successor to MkDocs Material, reading the same `mkdocs.yml` config).
 
 **EPIC: Exploring Particle Physics Integrated with Computing**
 University of Mississippi — July 13–17, 2026
@@ -11,13 +11,13 @@ Requires [`uv`](https://docs.astral.sh/uv/):
 
 ```bash
 uv sync
-uv run mkdocs serve
+uv run zensical serve
 ```
 
 Open `http://localhost:8000/epic-summer-2026/` in your browser. The page live-reloads as you edit files — no need to restart.
 
 ```bash
-uv run mkdocs build --strict   # build static site into site/ (optional, for inspection)
+uv run zensical build --strict   # build static site into site/ (optional, for inspection)
 ```
 
 ## Deploying to GitHub Pages
@@ -40,7 +40,7 @@ docs/               # all site content (Markdown)
   notebooks/        # per-day notebook pages
   physics/          # background reading
   faq.md
-mkdocs.yml          # site configuration
+mkdocs.yml          # site configuration (read natively by Zensical)
 pyproject.toml      # Python dependencies
 uv.lock             # locked dependency versions
 .github/workflows/  # GitHub Actions deploy
