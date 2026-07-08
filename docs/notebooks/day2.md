@@ -24,12 +24,7 @@ Neutrinos are among the most abundant particles in the universe — and among th
 
 ## Open the notebook
 
-<div class="badge-row">
-<a href="https://colab.research.google.com/github/YOUR-GITHUB-ORG/MESH/blob/main/notebooks/02_neutrino_physics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-<a href="https://mybinder.org/v2/gh/YOUR-GITHUB-ORG/MESH/main?filepath=notebooks/02_neutrino_physics.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Launch on Binder"/></a>
-</div>
-
-Or find it manually: `notebooks/02_neutrino_physics.ipynb` in the [MESH repository](https://github.com/YOUR-GITHUB-ORG/MESH).
+Notebook repository details will be added once the materials are finalized.
 
 ---
 

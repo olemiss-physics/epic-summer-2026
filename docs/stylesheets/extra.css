@@ -158,7 +158,7 @@
   padding-bottom: 0.5rem;
 }
 
-/* Colab / Binder badge buttons */
+/* Notebook badge buttons */
 .badge-row {
   display: flex;
   flex-wrap: wrap;
