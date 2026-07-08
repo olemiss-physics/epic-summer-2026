@@ -7,23 +7,17 @@ University of Mississippi — July 13–17, 2026
 
 ## Local preview
 
+Requires [`uv`](https://docs.astral.sh/uv/):
+
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-mkdocs serve
+uv sync
+uv run mkdocs serve
 ```
 
 Open `http://localhost:8000/epic-summer-2026/` in your browser. The page live-reloads as you edit files — no need to restart.
 
-On subsequent sessions, just activate the venv and serve:
 ```bash
-source .venv/bin/activate
-mkdocs serve
-```
-
-```bash
-mkdocs build        # build static site into site/ (optional, for inspection)
+uv run mkdocs build --strict   # build static site into site/ (optional, for inspection)
 ```
 
 ## Deploying to GitHub Pages
@@ -32,7 +26,7 @@ The site deploys to GitHub Pages on pushes to `main`, and can also be deployed m
 
 Either way, you'll also need to:
 1. Make sure the repository lives at `olemiss-physics/epic-summer-2026`
-2. In the repo Settings → Pages, set source to **Deploy from a branch → `gh-pages`**
+2. In the repo Settings → Pages, set source to **GitHub Actions** (the deploy workflow uses `actions/deploy-pages`, not a `gh-pages` branch)
 3. Push to `main` or run the "Deploy site to GitHub Pages" workflow manually
 
 ## Repository layout
@@ -47,7 +41,8 @@ docs/               # all site content (Markdown)
   physics/          # background reading
   faq.md
 mkdocs.yml          # site configuration
-requirements.txt    # Python dependencies
+pyproject.toml      # Python dependencies
+uv.lock             # locked dependency versions
 .github/workflows/  # GitHub Actions deploy
 ```
 

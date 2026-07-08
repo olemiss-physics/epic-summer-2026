@@ -43,7 +43,8 @@ docs/
   physics/              # science background pages
   assets/               # images, logos, JavaScript, CSS
 mkdocs.yml              # site config and navigation
-requirements.txt        # Python dependencies
+pyproject.toml          # Python dependencies
+uv.lock                 # locked dependency versions
 TODO.md                 # launch/content checklist
 ```
 
@@ -114,18 +115,17 @@ rg "contact email|notebook repository|MESH"
 
 ## Local Development
 
-Preferred commands:
+Preferred commands (uses [`uv`](https://docs.astral.sh/uv/)):
 
 ```bash
-.venv/bin/mkdocs serve
-.venv/bin/mkdocs build --strict
+uv run mkdocs serve
+uv run mkdocs build --strict
 ```
 
-If `.venv/bin/mkdocs` is missing, set up the environment:
+If dependencies aren't installed yet, set up the environment:
 
 ```bash
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
+uv sync
 ```
 
 Do not commit `.venv/`, `site/`, or cache directories.
@@ -136,13 +136,13 @@ Before reporting completion:
 
 1. Run `git status --short` and make sure only intended files changed.
 2. Run targeted `rg` checks for stale details.
-3. Run `.venv/bin/mkdocs build --strict` when possible.
+3. Run `uv run mkdocs build --strict` when possible.
 4. If the build fails because of sandbox restrictions writing `site/`, request permission to rerun the same command with the required filesystem access.
 5. Mention clearly if verification could not be run.
 
 ## Deployment Notes
 
-The README says automatic GitHub Pages deployment is disabled while the site is being drafted. Do not change deployment workflow behavior unless the user explicitly asks.
+Automatic GitHub Pages deployment is **live**: `.github/workflows/deploy.yml` runs `mkdocs build --strict` and deploys to GitHub Pages on every push to `main`. Do not change deployment workflow behavior unless the user explicitly asks, and treat any push to `main` as a real, public deploy.
 
 Before any deployment-related work, confirm:
 
@@ -151,6 +151,12 @@ Before any deployment-related work, confirm:
 - `repo_url`
 - remaining notebook repository placeholders
 - whether manual or automatic deployment is desired
+
+## Future: Zensical
+
+[Zensical](https://zensical.org) is a Rust-core static site generator from the Material for MkDocs team, announced Nov 2025 as MkDocs's eventual successor. It reads `mkdocs.yml` natively and preserves generated HTML structure, so this site — which has no `plugins:` entries in `mkdocs.yml`, only `theme`/`markdown_extensions`/`extra_css`/`extra_javascript`/a `docs/overrides` dir — is a low-risk future candidate. Its module system (needed for third-party plugin support) and full pymdownx/CommonMark coverage were still landing as of "early 2026" per Zensical's own blog, and it doesn't yet support `uv`'s symlink install mode. Do not migrate to Zensical without explicit user request; if asked, smoke-test `zensical build` against this exact `mkdocs.yml` before switching CI/docs over.
+
+Context on urgency: `mkdocs build` now prints a warning (see squidfunk's [Feb 2026 post](https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/)) that upstream **MkDocs 2.0** — a separate, unrelated rewrite, not made by the Material team — removes the plugin system entirely, rewrites theming in an incompatible way, has no migration path, and is currently unlicensed. Material for MkDocs is staying on MkDocs 1.x and is *not* moving to MkDocs 2.0; Zensical, not MkDocs 2.0, is the team's actual forward path. The build warning can be silenced with `NO_MKDOCS_2_WARNING=1` if it gets noisy, but don't silence it without noting why — it's a real signal about long-term stack health, not just log noise.
 
 ## Open Content Items
 
