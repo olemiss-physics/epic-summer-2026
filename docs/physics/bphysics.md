@@ -61,4 +61,4 @@ If those particles really came from a B meson decay, this quantity will cluster 
 
 ---
 
-*Ready to look for that peak? Head to [Day 3: B-Meson Physics](../notebooks/day3.md).*
+*Ready to look for that peak? We'll work through the Belle II tutorial together during the program.*

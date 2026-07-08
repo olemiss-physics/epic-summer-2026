@@ -38,6 +38,18 @@ Suyog is an undergraduate physics student working on neutrino oscillation analys
 </div>
 </div>
 
+<div class="team-card" markdown>
+<div class="team-photo placeholder"></div>
+<div class="team-info" markdown>
+
+### Prof. Jeremy Scott
+**Associate Teaching Professor, University of Southern Mississippi**
+
+Jeremy teaches physics at the University of Southern Mississippi. His areas of expertise include particle physics, nuclear physics, scattering, high-energy physics, and relativity.
+
+</div>
+</div>
+
 <div class="team-card placeholder-card" markdown>
 <div class="team-photo placeholder"></div>
 <div class="team-info" markdown>

@@ -16,17 +16,17 @@ Go to [github.com/signup](https://github.com/signup) and create a free account i
 
 "Forking" creates your own personal copy of the MESH repository on GitHub.
 
-1. Go to [github.com/YOUR-GITHUB-ORG/MESH](https://github.com/YOUR-GITHUB-ORG/MESH)
+1. Go to the notebook repository URL provided by the instructors
 2. Click the **Fork** button in the top-right corner
 3. Leave all the settings as they are and click **Create fork**
 
-You now have your own copy at `github.com/YOUR-USERNAME/MESH`.
+You now have your own copy under your GitHub account.
 
 ---
 
 ## Step 3 — The four commands you'll use
 
-Open a terminal (in Colab: **Tools → Terminal**, or in JupyterHub: **File → New → Terminal**).
+Open a terminal in Jupyter: **File → New → Terminal**.
 
 ```bash
 # See what files you've changed
@@ -82,7 +82,7 @@ In the terminal, inside your MESH folder:
 touch notes.md
 ```
 
-Then open it in any text editor (in Colab or JupyterHub: **File → Open** and select `notes.md`).
+Then open it in Jupyter with **File → Open** and select `notes.md`.
 
 **What to write**
 

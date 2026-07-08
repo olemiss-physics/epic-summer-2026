@@ -1,8 +1,8 @@
 # This Week's Notebooks
 
-Each day has a Jupyter notebook (or two) to work through. They're designed to be self-guiding — read the text, run the code, and try the exercises.
+Each day will have a Jupyter notebook or project workspace to work through. They're designed to be self-guiding — read the text, run the code, and try the exercises.
 
-All notebooks are in the [MESH GitHub repository](https://github.com/YOUR-GITHUB-ORG/MESH). Open them in [Google Colab](../setup/jupyter.md) or [Binder](../setup/jupyter.md#option-2-binder).
+Notebook repository details will be added once the materials are finalized.
 
 ---
 

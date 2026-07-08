@@ -17,11 +17,7 @@ Go beyond the basic comparison and fit a theoretical oscillation curve to your d
 - Overlay the theoretical prediction using the oscillation formula
 - Explore how changing θ₂₃ and Δm²₃₂ changes the oscillation pattern
 
-**Open the notebook:**
-
-<div class="badge-row">
-<a href="https://colab.research.google.com/github/YOUR-GITHUB-ORG/MESH/blob/main/notebooks/04_neutrino_oscillations.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-</div>
+Notebook repository details will be added once the materials are finalized.
 
 ---
 

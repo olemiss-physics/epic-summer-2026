@@ -8,7 +8,7 @@ Today you'll set up your computing environment and make your very first physics 
 
 ## What you'll do
 
-- Set up access to Jupyter notebooks via Google Colab or JupyterHub
+- Set up access to Jupyter notebooks
 - Fork the MESH repository to your own GitHub account
 - Learn the basic git workflow (status → add → commit → push)
 - Make a histogram of particle energies with Python
@@ -24,12 +24,7 @@ Today you'll set up your computing environment and make your very first physics 
 
 ## Open the notebook
 
-<div class="badge-row">
-<a href="https://colab.research.google.com/github/YOUR-GITHUB-ORG/MESH/blob/main/notebooks/01_welcome_and_setup.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-<a href="https://mybinder.org/v2/gh/YOUR-GITHUB-ORG/MESH/main?filepath=notebooks/01_welcome_and_setup.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Launch on Binder"/></a>
-</div>
-
-Or find it manually: `notebooks/01_welcome_and_setup.ipynb` in the [MESH repository](https://github.com/YOUR-GITHUB-ORG/MESH).
+Notebook repository details will be added once the materials are finalized.
 
 ---
 
@@ -44,4 +39,4 @@ Or find it manually: `notebooks/01_welcome_and_setup.ipynb` in the [MESH reposit
 ---
 
 !!! tip "Before you save and push"
-    Make sure you've saved a copy of the notebook to your Google Drive (if using Colab) before you push to GitHub. See the [GitHub guide](../setup/github.md) for the exact steps.
+    Make sure your notebook is saved before you push to GitHub. See the [GitHub guide](../setup/github.md) for the exact steps.

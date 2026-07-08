@@ -14,7 +14,7 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-Open `http://localhost:8000` in your browser. The page live-reloads as you edit files — no need to restart.
+Open `http://localhost:8000/epic-summer-2026/` in your browser. The page live-reloads as you edit files — no need to restart.
 
 On subsequent sessions, just activate the venv and serve:
 ```bash
@@ -28,25 +28,12 @@ mkdocs build        # build static site into site/ (optional, for inspection)
 
 ## Deploying to GitHub Pages
 
-Auto-deploy on push is currently **disabled** while the site is being drafted.
-When ready to go live, choose one of:
-
-**Option A — trigger manually** (no code change needed):
-Go to the repo on GitHub → Actions → "Deploy site to GitHub Pages" → Run workflow.
-
-**Option B — enable auto-deploy on every push to `main`**:
-In `.github/workflows/deploy.yml`, change the `on:` block to:
-```yaml
-on:
-  push:
-    branches: [main]
-  workflow_dispatch:
-```
+The site deploys to GitHub Pages on pushes to `main`, and can also be deployed manually from the Actions tab.
 
 Either way, you'll also need to:
-1. Create the repo on GitHub if you haven't already and push this branch
+1. Make sure the repository lives at `olemiss-physics/epic-summer-2026`
 2. In the repo Settings → Pages, set source to **Deploy from a branch → `gh-pages`**
-3. Update all `YOUR-GITHUB-ORG` placeholders in `mkdocs.yml`, `README.md`, and the `docs/` pages
+3. Push to `main` or run the "Deploy site to GitHub Pages" workflow manually
 
 ## Repository layout
 
@@ -66,4 +53,4 @@ requirements.txt    # Python dependencies
 
 ## Notebooks
 
-The Jupyter notebooks students use live in the separate [MESH repository](https://github.com/YOUR-GITHUB-ORG/MESH).
+The Jupyter notebooks students use will live in a separate repository once the materials are finalized.

@@ -159,7 +159,8 @@ We use a fiducial volume cut. We basically draw an invisible box inside the dete
 ### L/E Specturm: 
 In NOvA, the L/E spectrum tells us exactly "how much" the neutrinos weigh because the position of that dip in the histogram is directly tied to the neutrino's mass ($\Delta m^2$).
 By binning data according to the ratio of distance to energy, we map out the quantum mechanical probability wave of the neutrino. The "dip" in the histogram is the physical manifestation of the $\sin^2$ term in the oscillation formula, providing direct evidence of the mass-squared difference between neutrino states.
-This can be infered from the fomula below: 
-$$P(\nu_\mu \rightarrow \nu_\mu) \approx 1 - \sin^2(2\theta_{23}) \sin^2 \left( 1.27 \frac{\Delta m_{32}^2 \cdot L}{E} \right)$
+This can be infered from the fomula below:
 
-*Ready to see the data? Head to [Day 2: Neutrino Physics](../notebooks/day2.md).*
+$$P(\nu_\mu \rightarrow \nu_\mu) \approx 1 - \sin^2(2\theta_{23}) \sin^2 \left( 1.27 \frac{\Delta m_{32}^2 \cdot L}{E} \right)$$
+
+*Ready to see the data? We'll work through the neutrino tutorial together during the program.*

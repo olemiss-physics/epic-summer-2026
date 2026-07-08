@@ -72,7 +72,7 @@ By Friday your team will have plots, a poster, and a project story to share with
 
 ## Before you arrive
 
-Check out the [Before You Arrive](before-you-arrive.md) page for logistics, what to bring, and housing info.
+Check out [Before You Arrive](before-you-arrive.md) for logistics, what to bring, lodging options, parking, stipend, and travel-support information.
 
 !!! tip "First time here?"
     Start with **[Before You Arrive](before-you-arrive.md)**, then work through the **[Setup](setup/index.md)** guide so you're ready to go on Monday morning.

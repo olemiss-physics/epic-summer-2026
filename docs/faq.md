@@ -21,7 +21,25 @@ Yes — all participants who complete the week receive a certificate of completi
 ## Logistics
 
 **What should I bring?**
-See the [Before You Arrive](before-you-arrive.md) page for the full list. Short answer: not much — we provide the computers.
+See [Before You Arrive](before-you-arrive.md#what-to-bring) for the full list. Short answer: not much — we provide the computers.
+
+**Is there a program fee?**
+No. There is no program fee.
+
+**Is on-campus housing available?**
+No. On-campus housing is not available through EPIC. Participants and families should arrange and book their own lodging if they need to stay in Oxford.
+
+**Where should participants, families, or visitors stay?**
+See [Before You Arrive](before-you-arrive.md#lodging) for hotel areas and starting points. EPIC does not require a specific hotel.
+
+**Where can students eat?**
+The lunch break is 11:30 AM to 1:30 PM. Students can eat on campus or nearby; participants staying in Oxford should also plan for evening meals and snacks. See [Before You Arrive](before-you-arrive.md#where-to-eat-in-oxford) for suggestions.
+
+**Where should visitors park?**
+Visitors parking on campus need a university visitor permit or paid metered parking during enforcement hours. See [Before You Arrive](before-you-arrive.md#parking-on-campus) and the official [Ole Miss visitor parking page](https://olemiss.edu/parking/visitors/).
+
+**How does the stipend or travel reimbursement work?**
+Participants receive a $1,200 lump-sum subsistence payment at the conclusion of the program. Travel support of up to $500 is available upon request in addition to the stipend. Payment processing depends on whether you are a University of Mississippi student. See [Before You Arrive](before-you-arrive.md#stipend-and-travel-support).
 
 **Can I bring my own laptop?**
 Yes, but you don't need to. We'll provide Chromebooks for all sessions. If you bring your own, make sure Chrome is installed.
@@ -30,7 +48,7 @@ Yes, but you don't need to. We'll provide Chromebooks for all sessions. If you b
 No. Wear what's comfortable. The building is air-conditioned, so a light layer is useful.
 
 **What happens if I can't make it one day?**
-Contact us as soon as you know. We'll do our best to help you catch up — the notebooks are self-guided so you can work through missed material.
+If you are sick or cannot attend, contact the organizers as soon as you know. We'll help you catch up where we can, but stipend support is based on program participation requirements, so absences may affect payment.
 
 ---
 
@@ -39,14 +57,14 @@ Contact us as soon as you know. We'll do our best to help you catch up — the n
 **I've never used GitHub before. Will that be a problem?**
 Not at all. We walk through everything from scratch on Monday. By the end of the week you'll have used it every day.
 
-**What if Colab is slow or has errors?**
-Let a TA or instructor know. We have backup options (Binder, local Jupyter) and can troubleshoot quickly.
+**What if Jupyter is slow or has errors?**
+Let a TA or instructor know. We will use Jupyter during the program and can troubleshoot quickly.
 
 **Can I keep working on the notebooks after the program?**
 Absolutely — the repository will stay public and your fork will remain on GitHub. Everything you do during the week is yours to keep.
 
 **Will the notebooks work on my home computer?**
-Yes, with a little setup. See the [local installation option](setup/jupyter.md#option-3-run-locally-on-your-own-laptop) in the Setup guide.
+Yes, with a little setup. We will add finalized notebook setup instructions once the notebook repository is ready.
 
 ---
 

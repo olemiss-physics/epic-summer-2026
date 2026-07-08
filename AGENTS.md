@@ -84,7 +84,7 @@ Use `rg` to find stale text before finishing. Examples:
 
 ```bash
 rg "8:30|4:30|12:00|1:00|Exact capacity|TBD|grad student|Quarkent|QuarkNet"
-rg "YOUR-GITHUB-ORG|MESH|contact email"
+rg "contact email|notebook repository|MESH"
 ```
 
 ## Writing Style
@@ -149,7 +149,7 @@ Before any deployment-related work, confirm:
 - GitHub organization / repository name
 - `site_url`
 - `repo_url`
-- remaining `YOUR-GITHUB-ORG` placeholders
+- remaining notebook repository placeholders
 - whether manual or automatic deployment is desired
 
 ## Open Content Items

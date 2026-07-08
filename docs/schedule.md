@@ -19,7 +19,7 @@ Location: University of Mississippi, Oxford
 | 11:30 – 1:30 | Lunch |
 | 1:30 – 2:30 | Computing tutorial: GitHub, Git Bash, and the command line |
 | 2:30 – 2:45 | Break |
-| 2:45 – 3:45 | Python and Jupyter tutorial ([Notebook 1](notebooks/day1.md)) |
+| 2:45 – 3:45 | Python and Jupyter tutorial |
 | 3:45 – 4:00 | Wrap-up and questions |
 
 ---
@@ -33,7 +33,7 @@ Location: University of Mississippi, Oxford
 | 9:00 – 9:15 | Recap of Monday and questions |
 | 9:15 – 10:00 | What is a neutrino, and why is it hard to detect? |
 | 10:00 – 10:15 | Break |
-| 10:15 – 11:30 | Neutrino oscillation tutorial: flavor change, baselines, and energy ([Notebook 2](notebooks/day2.md)) |
+| 10:15 – 11:30 | Neutrino oscillation tutorial: flavor change, baselines, and energy |
 | 11:30 – 1:30 | Lunch |
 | 1:30 – 2:00 | Form five project teams and choose Belle II project topics |
 | 2:00 – 3:45 | Team project work: data, questions, and first plots |
@@ -50,7 +50,7 @@ Location: University of Mississippi, Oxford
 | 9:00 – 9:15 | Recap and questions |
 | 9:15 – 10:00 | B mesons, Belle II, and the matter-antimatter mystery |
 | 10:00 – 10:15 | Break |
-| 10:15 – 11:30 | Belle II analysis tutorial: reconstructing decays and plotting invariant mass ([Notebook 3](notebooks/day3.md)) |
+| 10:15 – 11:30 | Belle II analysis tutorial: reconstructing decays and plotting invariant mass |
 | 11:30 – 1:30 | Lunch |
 | 1:30 – 3:30 | Team project work: refine analysis, make plots, document results |
 | 3:30 – 4:00 | Science communication: explaining your plot to a non-expert |
@@ -64,7 +64,7 @@ Location: University of Mississippi, Oxford
 | Time | Activity |
 |------|----------|
 | 9:00 – 9:15 | Recap and project status check |
-| 9:15 – 10:00 | Neutrino oscillation tutorial: fitting an oscillation pattern ([Notebook 4](notebooks/day4.md)) |
+| 9:15 – 10:00 | Neutrino oscillation tutorial: fitting an oscillation pattern |
 | 10:00 – 10:15 | Break |
 | 10:15 – 11:30 | Science communication: building a clear poster story |
 | 11:30 – 1:30 | Lunch |

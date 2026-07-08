@@ -1,8 +1,8 @@
 site_name: EPIC Summer 2026
 site_description: "Exploring Particle Physics Integrated with Computing — University of Mississippi"
-site_url: https://YOUR-GITHUB-ORG.github.io/epic-summer-2026/
-repo_url: https://github.com/YOUR-GITHUB-ORG/epic-summer-2026
-repo_name: epic-summer-2026
+site_url: https://olemiss-physics.github.io/epic-summer-2026/
+repo_url: https://github.com/olemiss-physics/epic-summer-2026
+repo_name: olemiss-physics/epic-summer-2026
 edit_uri: ""
 
 theme:
@@ -56,14 +56,7 @@ nav:
   - Before You Arrive: before-you-arrive.md
   - Setup:
       - Overview: setup/index.md
-      - Running Notebooks: setup/jupyter.md
       - Using GitHub: setup/github.md
-  - Notebooks:
-      - This Week's Notebooks: notebooks/index.md
-      - "Day 1: Welcome & Tools": notebooks/day1.md
-      - "Day 2: Neutrino Physics": notebooks/day2.md
-      - "Day 3: B-Meson Physics": notebooks/day3.md
-      - "Day 4: Deep Dives": notebooks/day4.md
   - Physics Background:
       - Neutrinos: physics/neutrinos.md
       - B Mesons & CP Violation: physics/bphysics.md
@@ -93,7 +86,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/YOUR-GITHUB-ORG/epic-summer-2026
+      link: https://github.com/olemiss-physics/epic-summer-2026
       name: EPIC on GitHub
   generator: false
 
