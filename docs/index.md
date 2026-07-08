@@ -17,7 +17,7 @@ University of Mississippi, Oxford
 
 This week you'll become a particle physicist.
 
-That might sound intimidating, but it's not — you already have everything you need. By Friday you'll have written real Python code to analyze real physics data, produced publication-quality plots, and presented your results to the group.
+That might sound intimidating, but it's not — you already have everything you need. By Friday you'll have written Python code, worked with a small team on a Belle II project, made plots, and presented your results on a poster.
 
 No prior coding experience required. No physics background assumed. Just curiosity.
 
@@ -32,11 +32,11 @@ Use Jupyter notebooks to load, explore, and plot real detector data — the same
 </div>
 <div class="card" markdown>
 ### :atom: Study two experiments
-Investigate **neutrino oscillations** with DUNE, and **matter-antimatter asymmetry** with Belle II — two of the biggest open questions in physics.
+Learn about **neutrino oscillations** with NOvA and DUNE, then dig into **Belle II** data for your team project.
 </div>
 <div class="card" markdown>
 ### :bar_chart: Make real discoveries
-By Friday you'll have your own histograms showing signals from real particle interactions, and you'll present them to the group.
+By Friday your team will have plots, a poster, and a project story to share with the group.
 </div>
 </div>
 
@@ -59,11 +59,11 @@ By Friday you'll have your own histograms showing signals from real particle int
 
 | Day | Focus |
 |-----|-------|
-| **Monday** | Welcome, tools setup, and the big picture |
-| **Tuesday** | Neutrino oscillations — the disappearing particle |
-| **Wednesday** | B mesons and the matter-antimatter mystery |
-| **Thursday** | Deep dives, grad student talks, presentation prep |
-| **Friday** | Student presentations and celebration |
+| **Monday** | Welcome, particle physics, NOvA/DUNE/Belle II, and tools setup |
+| **Tuesday** | Neutrino oscillations and team project launch |
+| **Wednesday** | Belle II analysis and project work |
+| **Thursday** | Science communication and poster preparation |
+| **Friday** | QuarkNet session and poster presentations |
 
 [:calendar: See the full schedule](schedule.md){ .md-button .md-button--primary }
 [:wrench: Get set up](setup/index.md){ .md-button }

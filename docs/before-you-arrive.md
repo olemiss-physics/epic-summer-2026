@@ -9,7 +9,7 @@ Here's everything you need to know before the first day. Read this page carefull
 | | |
 |---|---|
 | **Dates** | July 13–17, 2026 |
-| **Hours** | 8:30 AM – 4:30 PM daily |
+| **Hours** | 9:00 AM – 4:00 PM daily |
 | **Location** | University of Mississippi, Oxford, MS |
 | **Fee** | $25 (covers program materials and SWAG) |
 | **Registration deadline** | May 1, 2026 |
@@ -22,7 +22,13 @@ You can participate as a **residential** or **commuter** student.
 
 **Residential students** will be housed in South Residence Hall on campus. The program fee covers housing — you'll receive check-in details by email closer to the program start date.
 
-**Commuter students** should plan to arrive by 8:20 AM each morning. Parking information will be sent with your confirmation email.
+**Commuter students** should plan to arrive by 8:50 AM each morning. Parking information will be sent with your confirmation email.
+
+## Daily rhythm
+
+Each day runs from **9:00 AM to 4:00 PM**. The morning session ends at **11:30 AM**, followed by a two-hour lunch break from **11:30 AM to 1:30 PM**. Afternoon sessions run from **1:30 PM to 4:00 PM** and include tutorials, project work, poster preparation, and presentations.
+
+Participants will work in **five teams** on **five Belle II projects**. There are **13 participants**, so most teams will have two or three students.
 
 ---
 
@@ -37,7 +43,7 @@ You can participate as a **residential** or **commuter** student.
 
 === "Commuter students"
 
-    - Lunch (or money to buy lunch on campus — the dining halls will be open)
+    - Lunch or money to buy lunch on campus
     - Any snacks you like for breaks
 
 === "Residential students"

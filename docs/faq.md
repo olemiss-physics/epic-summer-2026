@@ -11,7 +11,7 @@ No. We start from scratch on the physics side. Curiosity is the only prerequisit
 No. We'll teach you the Python you need as we go. If you've never written a line of code before, you're in the right place. If you have some experience, you'll be able to go further with the extension exercises.
 
 **How many students will be in the program?**
-We're keeping the group small to make sure everyone gets plenty of individual attention. Exact capacity TBD.
+There will be **13 participants**, working in **five teams** on **five Belle II projects**.
 
 **Will I get a certificate?**
 Yes — all participants who complete the week receive a certificate of completion at Friday's celebration.

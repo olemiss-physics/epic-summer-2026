@@ -11,7 +11,7 @@ All notebooks are in the [MESH GitHub repository](https://github.com/YOUR-GITHUB
 | Monday | [Notebook 1](day1.md) | Welcome, tools setup, first histogram |
 | Tuesday | [Notebook 2](day2.md) | Neutrino energy spectra |
 | Wednesday | [Notebook 3](day3.md) | B meson decays and invariant mass |
-| Thursday | [Notebook 4](day4.md) | Deep dive (your choice of track) |
+| Thursday | [Notebook 4](day4.md) | Neutrino oscillation fit and poster prep |
 
 ---
 

@@ -5,13 +5,13 @@
 - [ ] Set GitHub org name — replace all `YOUR-GITHUB-ORG` placeholders in `mkdocs.yml`, `docs/setup/`, `docs/notebooks/`
 - [ ] Confirm notebook repo name (currently `MESH`) and update all references
 - [ ] Add contact email — replace `[TBD contact email]` in `before-you-arrive.md` and `faq.md`
-- [ ] Set program capacity in `faq.md` (currently "Exact capacity TBD")
+- [x] Set program capacity in `faq.md`
 - [ ] Add NOvA logo once correct logo file is identified
 
 ## Content
 
 - [ ] Write actual notebook content for Day 1–4 (current pages are stubs with Colab/Binder links)
-- [ ] Add grad student bios / speaker lineup for Thursday talks
+- [ ] Confirm the five Belle II project titles and add them to the schedule/site
 - [ ] Add housing/dorm details to `before-you-arrive.md` once confirmed
 
 ## Acknowledgements

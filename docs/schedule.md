@@ -1,94 +1,90 @@
 # Schedule
 
 **EPIC Summer 2026 — July 13–17, 2026**
-Daily hours: **8:30 AM – 4:30 PM**
+Daily hours: **9:00 AM – 4:00 PM**
 Location: University of Mississippi, Oxford
 
 ---
 
-## Monday, July 13 — Welcome & Tools
+## Monday, July 13 — Welcome, Physics & Tools
 
-*Get to know each other, set up your computing environment, and see where the week is headed.*
+*Get to know each other, meet the experiments, and set up the tools you'll use all week.*
 
 | Time | Activity |
 |------|----------|
-| 8:30 – 9:00 | Welcome and introductions |
-| 9:00 – 9:30 | The big picture: what is particle physics and why does it matter? |
-| 9:30 – 10:00 | **Sneak peek:** the plots you'll make by Friday |
-| 10:00 – 10:15 | Break |
-| 10:15 – 12:00 | Setup: Jupyter notebooks + GitHub ([Notebook 1](notebooks/day1.md)) |
-| 12:00 – 1:00 | Lunch |
-| 1:00 – 2:30 | Python warm-up: your first physics histogram |
+| 9:00 – 9:30 | Welcome, introductions, and the plan for the week |
+| 9:30 – 10:15 | Particle physics: the big picture |
+| 10:15 – 10:30 | Break |
+| 10:30 – 11:30 | Experiment snapshots: NOvA, DUNE, and Belle II |
+| 11:30 – 1:30 | Lunch |
+| 1:30 – 2:30 | Computing tutorial: GitHub, Git Bash, and the command line |
 | 2:30 – 2:45 | Break |
-| 2:45 – 4:00 | Tour of the Physics Department |
-| 4:00 – 4:30 | Wrap-up and questions |
+| 2:45 – 3:45 | Python and Jupyter tutorial ([Notebook 1](notebooks/day1.md)) |
+| 3:45 – 4:00 | Wrap-up and questions |
 
 ---
 
 ## Tuesday, July 14 — Neutrino Physics
 
-*Meet the ghost particle — and figure out why it keeps changing identity.*
+*Meet the ghost particle and explore how neutrinos change identity as they travel.*
 
 | Time | Activity |
 |------|----------|
-| 8:30 – 9:00 | Recap of Monday + questions |
-| 9:00 – 9:45 | Mini-lecture: what is a neutrino? Why are they so hard to detect? |
-| 9:45 – 10:00 | Break |
-| 10:00 – 12:00 | **Notebook 2:** Load neutrino data, make energy histograms ([Notebook 2](notebooks/day2.md)) |
-| 12:00 – 1:00 | Lunch |
-| 1:00 – 2:00 | Mini-lecture: neutrino oscillations — the math (no calculus required!) |
-| 2:00 – 2:15 | Break |
-| 2:15 – 4:00 | Continue notebook: near vs. far detector comparison |
-| 4:00 – 4:30 | Share plots, wrap-up |
+| 9:00 – 9:15 | Recap of Monday and questions |
+| 9:15 – 10:00 | What is a neutrino, and why is it hard to detect? |
+| 10:00 – 10:15 | Break |
+| 10:15 – 11:30 | Neutrino oscillation tutorial: flavor change, baselines, and energy ([Notebook 2](notebooks/day2.md)) |
+| 11:30 – 1:30 | Lunch |
+| 1:30 – 2:00 | Form five project teams and choose Belle II project topics |
+| 2:00 – 3:45 | Team project work: data, questions, and first plots |
+| 3:45 – 4:00 | Team check-in and wrap-up |
 
 ---
 
-## Wednesday, July 15 — B-Meson Physics & Belle II
+## Wednesday, July 15 — Belle II Projects
 
-*Why is there more matter than antimatter in the universe? Your data holds a clue.*
+*Dig into Belle II data and start turning analysis work into a project story.*
 
 | Time | Activity |
 |------|----------|
-| 8:30 – 9:00 | Recap + questions |
-| 9:00 – 9:45 | Mini-lecture: B mesons, the Belle II experiment, and the matter-antimatter mystery |
-| 9:45 – 10:00 | Break |
-| 10:00 – 12:00 | **Notebook 3:** Reconstruct B meson decays, plot the invariant mass ([Notebook 3](notebooks/day3.md)) |
-| 12:00 – 1:00 | Lunch |
-| 1:00 – 2:00 | Mini-lecture: CP violation and what it tells us |
-| 2:00 – 2:15 | Break |
-| 2:15 – 4:00 | Continue notebook: measure the B/B̄ asymmetry |
-| 4:00 – 4:30 | Share plots, wrap-up |
+| 9:00 – 9:15 | Recap and questions |
+| 9:15 – 10:00 | B mesons, Belle II, and the matter-antimatter mystery |
+| 10:00 – 10:15 | Break |
+| 10:15 – 11:30 | Belle II analysis tutorial: reconstructing decays and plotting invariant mass ([Notebook 3](notebooks/day3.md)) |
+| 11:30 – 1:30 | Lunch |
+| 1:30 – 3:30 | Team project work: refine analysis, make plots, document results |
+| 3:30 – 4:00 | Science communication: explaining your plot to a non-expert |
 
 ---
 
 ## Thursday, July 16 — Deep Dives & Presentation Prep
 
-*Go further with the analysis you care most about, hear from grad students, and prep for Friday.*
+*Use the afternoon to turn project results into posters.*
 
 | Time | Activity |
 |------|----------|
-| 8:30 – 9:00 | Recap + choose your track |
-| 9:00 – 12:00 | **Notebook 4:** Deep dive ([Notebook 4](notebooks/day4.md)) |
-| | *Track A: Full neutrino near/far analysis with oscillation fit* |
-| | *Track B: Extended B-physics analysis with additional decay modes* |
-| 12:00 – 1:00 | Lunch |
-| 1:00 – 2:30 | Lightning talks from graduate students: "What is it actually like to do research?" |
-| 2:30 – 2:45 | Break |
-| 2:45 – 4:30 | Presentation prep — finalize your plots and talking points |
+| 9:00 – 9:15 | Recap and project status check |
+| 9:15 – 10:00 | Neutrino oscillation tutorial: fitting an oscillation pattern ([Notebook 4](notebooks/day4.md)) |
+| 10:00 – 10:15 | Break |
+| 10:15 – 11:30 | Science communication: building a clear poster story |
+| 11:30 – 1:30 | Lunch |
+| 1:30 – 3:45 | Team project work: poster preparation and presentation practice |
+| 3:45 – 4:00 | Final poster checklist |
 
 ---
 
-## Friday, July 17 — Presentations & Celebration
+## Friday, July 17 — QuarkNet & Poster Presentations
 
-*Show the group what you found.*
+*Share your project with the group and visiting QuarkNet participants.*
 
 | Time | Activity |
 |------|----------|
-| 8:30 – 9:00 | Final prep time |
-| 9:00 – 11:30 | **Student presentations** (5–7 min each + questions) |
-| 11:30 – 12:00 | Panel discussion: "What's next?" — careers, graduate school, research opportunities |
-| 12:00 – 1:00 | Celebration lunch |
-| 1:00 – 2:00 | Certificates, photos, goodbyes |
+| 9:00 – 9:30 | Final poster setup and practice |
+| 9:30 – 11:30 | QuarkNet session and student poster presentations |
+| 11:30 – 1:30 | Lunch |
+| 1:30 – 2:30 | Poster presentations continue and group discussion |
+| 2:30 – 3:15 | Panel: what's next in physics, computing, and research |
+| 3:15 – 4:00 | Certificates, photos, and goodbyes |
 
 !!! note "Schedule may shift"
     We'll adjust timing as the week unfolds. The staff will always let you know about any changes at the start of each day.
