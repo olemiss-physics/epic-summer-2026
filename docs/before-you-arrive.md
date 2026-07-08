@@ -30,7 +30,7 @@ Logistics, lodging, parking, food, stipend, and travel-support details are colle
 
 On-campus housing is not available through EPIC. Participants and families should arrange and book their own lodging if they need to stay in Oxford.
 
-Participants should plan to arrive by **8:50 AM** each morning. Parking information will be sent with your confirmation email.
+Participants should plan to arrive by **8:50 AM** each morning.
 
 ## Parking on campus
 
