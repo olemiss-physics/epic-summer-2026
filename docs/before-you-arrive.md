@@ -20,7 +20,7 @@ Logistics, lodging, parking, food, stipend, and travel-support details are colle
 |---|---|
 | **Dates** | July 13–17, 2026 |
 | **Hours** | 9:00 AM – 4:00 PM daily |
-| **Location** | University of Mississippi, Oxford, MS |
+| **Location** | Duff Center for Science and Technology Innovation (CSTI), rooms 135/137, ground floor ([Open in Ole Miss campus map](https://map.olemiss.edu/?id=562#!m/13272802?share)) |
 | **Fee** | No program fee |
 | **Registration deadline** | May 1, 2026 |
 
