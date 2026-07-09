@@ -85,7 +85,7 @@ Although the Standard Model successfully explains many fundamental particles and
 
 ## NOvA: seeing the dip
 
-NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measure neutrino oscillations with two detectors and one neutrino beam.
+[NOvA](https://novaexperiment.fnal.gov/) (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measure neutrino oscillations with two detectors and one neutrino beam.
 
 - A beam of muon neutrinos is produced at Fermilab, near Chicago
 - The beam travels **810 km** underground to a detector in Ash River, Minnesota
@@ -104,7 +104,7 @@ The far detector is a 14,000-tonne block of plastic filled with liquid scintilla
 
 ## DUNE: the next generation
 
-DUNE (Deep Underground Neutrino Experiment) will use the same basic near/far idea on a longer baseline. A neutrino beam from Fermilab will travel about **1,300 km** to a huge liquid-argon detector at Sanford Underground Research Facility in South Dakota.
+[DUNE](https://www.dunescience.org/) (Deep Underground Neutrino Experiment) will use the same basic near/far idea on a longer baseline. A neutrino beam from Fermilab will travel about **1,300 km** to a huge liquid-argon detector at Sanford Underground Research Facility in South Dakota.
 
 That longer trip gives oscillations more room to develop. DUNE is designed to measure the oscillation pattern with high precision, compare neutrinos with antineutrinos, and search for CP violation in the neutrino sector — one possible clue to why the universe contains more matter than antimatter.
 
@@ -132,26 +132,26 @@ Neutrinos might also hold a clue to why the universe is made of matter rather th
 
 ## Histograms in Neutrino Oscillation
 
-Basically, most common histogram used in NOvA experiment can be categorized into following three types: 
+In the neutrino tutorials, histograms give us a practical way to compare what a detector sees at different energies. A few common plot types are:
 
-- Energy Specturm
+- Energy Spectrum
 - PID Score
 - Vertex Distribution
 - L/E Distribution
 
 ### Energy Spectrum: 
-This is the most famous histogram in NOvA. It shows how much energy the neutrinos have when they hit the detector.
+This is one of the most useful plots for an oscillation tutorial. It shows the reconstructed neutrino energy for a set of selected events.
 
-- The X-Axis: Neutrino Energy (measured in GeV).
-- The Y-Axis: Number of Neutrinos detected.
+- The X-axis: neutrino energy, measured in GeV.
+- The Y-axis: number of selected neutrino events.
 
-In the Near Detector (at Fermilab), we see a tall, smooth mountain of muon neutrinos. But in the Far Detector (810 km away), that mountain has a huge "dip" or "bite" taken out of it. That missing "bite" is the proof of neutrino oscillation. The neutrinos didn't disappear; they changed flavor!
+In the near detector at Fermilab, the spectrum tells us what the beam looked like before much oscillation had time to develop. In the far detector, 810 km away, the spectrum can show a dip at particular energies. That dip is evidence that some muon neutrinos changed flavor before reaching the far detector.
 
 ### PID Spectrum: 
 PID stands for Particle Identification. NOvA uses a "CVN" (Convolutional Visual Network)—basically a fancy AI—to look at pictures of particle tracks and guess what they are.
 
-- The X-Axis: Probability Score (from 0 to 1).
-- The Y-Axis: Number of Events.
+- The X-axis: probability score, from 0 to 1.
+- The Y-axis: number of selected events.
 
 If the AI is 90% sure an event is an electron neutrino, it puts a count in the 0.9 bin. If it's only 10% sure, it goes in the 0.1 bin.
 To be safe, scientists might say: "We only trust events with a score higher than 0.8." This is a selection cut. It removes the "fakes" and keeps the real signal.
@@ -159,18 +159,20 @@ To be safe, scientists might say: "We only trust events with a score higher than
 ### Vertex Spectrum:
 A "vertex" is the exact point where a neutrino hit an atom and exploded into other particles.
 
-- The X/Y/Z-Axis: The physical location inside the detector.
-- The Y-Axis: Density of interactions.
+- The X/Y/Z axes: the physical location inside the detector.
+- The plotted value: density of interactions.
 
 We expect neutrinos to hit the detector evenly. If we see a huge "spike" of events near the edges of the detector, those aren't neutrinos—those are Cosmic Rays (background noise) leaking in from the outside.
 
 We use a fiducial volume cut. We basically draw an invisible box inside the detector and "cut" any data that happened too close to the walls.
 
-### L/E Specturm: 
-In NOvA, the L/E spectrum tells us exactly "how much" the neutrinos weigh because the position of that dip in the histogram is directly tied to the neutrino's mass ($\Delta m^2$).
-By binning data according to the ratio of distance to energy, we map out the quantum mechanical probability wave of the neutrino. The "dip" in the histogram is the physical manifestation of the $\sin^2$ term in the oscillation formula, providing direct evidence of the mass-squared difference between neutrino states.
-This can be infered from the fomula below:
+### L/E Spectrum:
+In NOvA, an L/E plot is useful because the oscillation phase depends on the ratio of baseline distance \(L\) to neutrino energy \(E\). The position of the dip helps constrain the mass-squared splitting \(\Delta m^2\).
+
+By binning events according to distance divided by energy, we map out the wave-like oscillation probability. The dip in the histogram is related to the \(\sin^2\) term in the oscillation formula:
 
 $$P(\nu_\mu \rightarrow \nu_\mu) \approx 1 - \sin^2(2\theta_{23}) \sin^2 \left( 1.27 \frac{\Delta m_{32}^2 \cdot L}{E} \right)$$
+
+The NOvA/DUNE notebooks in this program use toy Monte Carlo, not restricted collaboration data. The toy samples are designed to make the same analysis ideas visible: spectra, ratios, fluctuations, and the oscillation dip.
 
 *Ready to see the data? We'll work through the neutrino tutorial together during the program.*

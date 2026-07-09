@@ -6,7 +6,7 @@
 - [ ] Confirm notebook repo name (currently `MESH`) and update all references
 - [ ] Add contact email — replace `[TBD contact email]` in `before-you-arrive.md` and `faq.md`
 - [x] Set program capacity in `faq.md`
-- [ ] Add NOvA logo once correct logo file is identified
+- [x] Add NOvA logo once correct logo file is identified
 - [x] Confirm stipend amount, eligible expenses, reimbursement forms, deadline, and payment timing
 - [ ] Confirm whether EPIC has preferred hotel rates or room blocks
 

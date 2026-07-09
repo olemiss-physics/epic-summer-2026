@@ -71,13 +71,13 @@ Yes, with a little setup. We will add finalized notebook setup instructions once
 ## The science
 
 **Are the datasets real?**
-The datasets are **toy datasets** — they're generated to closely mimic real detector data from NOvA and Belle II, with the same statistical properties and physics signatures. This lets us focus on learning the analysis techniques without needing access to restricted experimental data.
+It depends on the part of the program. The NOvA/DUNE neutrino notebooks use **toy Monte Carlo** generated to mimic the main features of long-baseline oscillation data. The Belle II team projects use **real Belle II data** prepared for educational analysis.
 
 **Is the physics real?**
 Yes. The physics phenomena — neutrino oscillations, CP violation — are real and well-established. The oscillation parameters you'll measure are consistent with the published values from real experiments.
 
 **What is the NOvA/DUNE/Belle II experiment?**
-See the [Physics Background](physics/neutrinos.md) pages for a full introduction to each experiment.
+See the [Physics Background](physics/neutrinos.md) pages for an introduction, or visit the official experiment sites: [NOvA](https://novaexperiment.fnal.gov/), [DUNE](https://www.dunescience.org/), and [Belle II](https://www.belle2.org/).
 
 ---
 
