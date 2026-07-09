@@ -39,8 +39,8 @@ theme:
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/github
-  logo: assets/logos/mesh.png
-  favicon: assets/logos/mesh.png
+  logo: assets/logos/MESH_Logo_1x1.svg
+  favicon: assets/logos/MESH_Logo_1x1.ico
   custom_dir: docs/overrides
 
 extra_css:
