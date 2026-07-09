@@ -6,7 +6,7 @@
 - [ ] Confirm notebook repo name (currently `MESH`) and update all references
 - [ ] Add contact email — replace `[TBD contact email]` in `before-you-arrive.md` and `faq.md`
 - [x] Set program capacity in `faq.md`
-- [ ] Add NOvA logo once correct logo file is identified
+- [x] Add NOvA logo once correct logo file is identified
 - [x] Confirm stipend amount, eligible expenses, reimbursement forms, deadline, and payment timing
 - [ ] Confirm whether EPIC has preferred hotel rates or room blocks
 
@@ -14,6 +14,7 @@
 
 - [ ] Write actual notebook content for Day 1–4 and keep launch instructions Jupyter-based
 - [ ] Confirm the five Belle II project titles and add them to the schedule/site
+- [ ] Jake: check the physics background pages and add/verify the Belle II context
 - [ ] Add notebook pages and schedule links once notebook content and repository URLs are finalized
 - [x] Remove on-campus housing language and present lodging options
 

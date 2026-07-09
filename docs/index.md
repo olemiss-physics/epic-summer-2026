@@ -28,11 +28,11 @@ No prior coding experience required. No physics background assumed. Just curiosi
 <div class="card-grid" markdown>
 <div class="card" markdown>
 ### :snake: Code in Python
-Use Jupyter notebooks to load, explore, and plot real detector data — the same tools professional physicists use every day.
+Use Jupyter notebooks to load, explore, and plot particle physics data — the same tools professional physicists use every day.
 </div>
 <div class="card" markdown>
 ### :atom: Study two experiments
-Learn about **neutrino oscillations** with NOvA and DUNE, then dig into **Belle II** data for your team project.
+Learn about **neutrino oscillations** with NOvA/DUNE toy Monte Carlo, then dig into **real Belle II data** for your team project.
 </div>
 <div class="card" markdown>
 ### :bar_chart: Make real discoveries
@@ -45,6 +45,9 @@ By Friday your team will have plots, a poster, and a project story to share with
 ## The experiments
 
 <div class="experiment-logos">
+  <a href="https://novaexperiment.fnal.gov/" target="_blank" rel="noopener">
+    <img src="assets/logos/nova.png" alt="NOvA experiment logo">
+  </a>
   <a href="https://www.dunescience.org" target="_blank" rel="noopener">
     <img src="assets/logos/dune.png" alt="DUNE experiment logo">
   </a>
