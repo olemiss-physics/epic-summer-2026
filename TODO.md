@@ -14,6 +14,7 @@
 
 - [ ] Write actual notebook content for Day 1–4 and keep launch instructions Jupyter-based
 - [ ] Confirm the five Belle II project titles and add them to the schedule/site
+- [ ] Jake: check the physics background pages and add/verify the Belle II context
 - [ ] Add notebook pages and schedule links once notebook content and repository URLs are finalized
 - [x] Remove on-campus housing language and present lodging options
 

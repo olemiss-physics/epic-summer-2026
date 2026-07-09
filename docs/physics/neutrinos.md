@@ -62,15 +62,15 @@ For most of the 20th century, physicists assumed these were distinct, fixed iden
 
 ## Oscillation: the shape-shifting particle
 
-In the late 1990s, experiments found that neutrinos **change flavor as they travel**. A neutrino born as a muon neutrino can, after traveling hundreds of kilometers, show up as an electron neutrino or tau neutrino.
+Neutrinos do not keep a fixed flavor as they travel. A neutrino that starts as a muon neutrino can later be detected as an electron neutrino or tau neutrino. This is called **neutrino oscillation**.
 
-This phenomenon is called **neutrino oscillation**, and it has a remarkable implication: **neutrinos must have mass**. (Massless particles travel at exactly the speed of light and don't experience time — they can't oscillate.) This was a major discovery, since the original Standard Model of particle physics assumed neutrinos were massless.
+Oscillation happens because the flavor states we detect are mixtures of the mass states that travel through space. That matters because the original Standard Model assumed neutrinos were massless. The discovery of oscillations showed that neutrinos have mass, so the Standard Model cannot be the whole story.
 
-The probability that a muon neutrino is *still* a muon neutrino after traveling distance L with energy E is approximately:
+For a beam of muon neutrinos, one useful question is: what fraction are still muon neutrinos after traveling a distance \(L\) with energy \(E\)? A simplified survival probability is:
 
 $$P(\nu_\mu \to \nu_\mu) \approx 1 - \sin^2(2\theta_{23}) \cdot \sin^2\!\left(\frac{1.27 \cdot \Delta m^2_{32} \cdot L}{E}\right)$$
 
-Don't worry about the details — the key insight is that the survival probability **dips** at certain energies, like a wave. That dip is what you'll see in the data.
+Don't worry about every symbol yet. The key idea is that the survival probability **dips** at certain energies. In the tutorials, that dip shows up as fewer muon-neutrino events in the far detector than we would expect without oscillation.
 
 ---
 
@@ -83,15 +83,15 @@ Although the Standard Model successfully explains many fundamental particles and
 
 ---
 
-## The NOvA experiment
+## NOvA: seeing the dip
 
-NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measure neutrino oscillations.
+NOvA (NuMI Off-axis νₑ Appearance) is a Fermilab experiment designed to measure neutrino oscillations with two detectors and one neutrino beam.
 
 - A beam of muon neutrinos is produced at Fermilab, near Chicago
 - The beam travels **810 km** underground to a detector in Ash River, Minnesota
 - A smaller **near detector** at Fermilab measures the beam before oscillation has had much effect
 - The large **far detector** in Minnesota measures it after significant oscillation has occurred
-- By comparing the two, physicists extract the oscillation parameters
+- By comparing the two detectors, physicists measure the oscillation pattern
 
 The far detector is a 14,000-tonne block of plastic filled with liquid scintillator — it glows faintly when a rare neutrino interaction occurs.
 
@@ -99,6 +99,16 @@ The far detector is a 14,000-tonne block of plastic filled with liquid scintilla
 ![NOvA Far Detector](../assets/images/particles/far_detector.png){ width=250 }
 ![NOvA Near Detector](../assets/images/particles/near_detector.png){ width=250 }
 </div>
+
+---
+
+## DUNE: the next generation
+
+DUNE (Deep Underground Neutrino Experiment) will use the same basic near/far idea on a longer baseline. A neutrino beam from Fermilab will travel about **1,300 km** to a huge liquid-argon detector at Sanford Underground Research Facility in South Dakota.
+
+That longer trip gives oscillations more room to develop. DUNE is designed to measure the oscillation pattern with high precision, compare neutrinos with antineutrinos, and search for CP violation in the neutrino sector — one possible clue to why the universe contains more matter than antimatter.
+
+In this program, NOvA gives us the tutorial-scale example: make spectra, compare near and far detectors, and find the dip. DUNE shows where the field is going next.
 
 ---
 
@@ -116,7 +126,7 @@ In the simplest explanation for neutrino flavor change, the three neutrino flavo
 
 Neutrino oscillation tells us the neutrinos have mass — but the Standard Model says they shouldn't. That's a crack in our best theory of nature.
 
-Neutrinos might also hold a clue to why the universe is made of matter (rather than equal amounts of matter and antimatter). Experiments like NOvA and the future **DUNE** experiment are searching for a difference in how neutrinos and antineutrinos oscillate — a signal that could explain our existence.
+Neutrinos might also hold a clue to why the universe is made of matter rather than equal amounts of matter and antimatter. Experiments like NOvA and DUNE search for differences between neutrino and antineutrino oscillations. If those differences are real, they would point to new physics beyond the Standard Model.
 
 ---
 
