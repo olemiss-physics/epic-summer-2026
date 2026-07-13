@@ -1,8 +1,11 @@
 # Schedule
 
-**EPIC Summer 2026 — July 13–17, 2026**
-Daily hours: **9:00 AM – 4:00 PM**
+**EPIC Summer 2026 — July 13–17, 2026**<br>
+Daily hours: **9:00 AM – 4:00 PM**<br>
 Location: **Duff Center for Science and Technology Innovation (CSTI), rooms 135/137, ground floor** ([Open in Ole Miss campus map](https://map.olemiss.edu/?id=562#!m/13272802?share))
+
+!!! tip "Definitive live schedule"
+    This page is kept in sync with our [Indico timetable](https://alethia.phy.olemiss.edu/event/3/timetable/), which is the source of truth for any last-minute changes. If something here looks off, check Indico first.
 
 ---
 
