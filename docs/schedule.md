@@ -12,79 +12,87 @@ Location: **Duff Center for Science and Technology Innovation (CSTI), rooms 135/
 
 | Time | Activity |
 |------|----------|
-| 9:00 – 9:30 | Welcome, introductions, and the plan for the week |
-| 9:30 – 10:15 | Particle physics: the big picture |
-| 10:15 – 10:30 | Break |
-| 10:30 – 11:30 | Experiment snapshots: NOvA, DUNE, and Belle II |
+| 9:00 – 9:15 | Welcome and introduction |
+| 9:15 – 10:00 | Particle physics: the big picture |
+| 10:00 – 10:15 | Coffee break |
+| 10:15 – 10:45 | Tools of the trade: the Unix command line |
+| 10:45 – 11:15 | Tools of the trade: git |
+| 11:15 – 11:30 | Make your own GitHub account/repo |
 | 11:30 – 1:30 | Lunch |
-| 1:30 – 2:30 | Computing tutorial: GitHub, Git Bash, and the command line |
-| 2:30 – 2:45 | Break |
-| 2:45 – 3:45 | Python and Jupyter tutorial |
-| 3:45 – 4:00 | Wrap-up and questions |
+| 1:30 – 2:15 | Particle physics: the big picture (continued) |
+| 2:15 – 2:30 | Coffee break |
+| 2:30 – 3:30 | Tools of the trade: Python and Jupyter |
+| 3:30 – 4:00 | Review / game |
 
 ---
 
-## Tuesday, July 14 — Neutrino Physics
+## Tuesday, July 14 — Belle II & Hadronic Physics
+
+*Meet the matter-antimatter mystery and dig into real Belle II data.*
+
+| Time | Activity |
+|------|----------|
+| 9:00 – 9:15 | Recap and questions |
+| 9:15 – 10:15 | Hadronic physics, Belle II, and the matter-antimatter asymmetry |
+| 10:15 – 10:30 | Coffee break |
+| 10:30 – 11:30 | Belle II analysis tutorial |
+| 11:30 – 1:30 | Lunch |
+| 1:30 – 1:45 | Team formation and project assignment |
+| 1:45 – 3:30 | Team project work: data, questions, and first plots |
+| 3:30 – 4:00 | Team check-in and wrap-up |
+
+---
+
+## Wednesday, July 15 — Neutrino Physics
 
 *Meet the ghost particle and explore how neutrinos change identity as they travel.*
 
 | Time | Activity |
 |------|----------|
-| 9:00 – 9:15 | Recap of Monday and questions |
-| 9:15 – 10:00 | What is a neutrino, and why is it hard to detect? |
-| 10:00 – 10:15 | Break |
+| 9:00 – 9:20 | Recap and questions |
+| 9:20 – 10:00 | What is a neutrino, and why is it hard to detect? |
+| 10:00 – 10:15 | Coffee break |
 | 10:15 – 11:30 | Neutrino oscillation tutorial: flavor change, baselines, and energy |
 | 11:30 – 1:30 | Lunch |
-| 1:30 – 2:00 | Form five project teams and choose Belle II project topics |
-| 2:00 – 3:45 | Team project work: data, questions, and first plots |
+| 1:30 – 3:45 | Team project work: refine analysis, make plots, document results |
 | 3:45 – 4:00 | Team check-in and wrap-up |
 
 ---
 
-## Wednesday, July 15 — Belle II Projects
+## Thursday, July 16 — Science Communication & Poster Prep
 
-*Dig into Belle II data and start turning analysis work into a project story.*
+*Turn project results into a poster and practice telling its story.*
 
 | Time | Activity |
 |------|----------|
-| 9:00 – 9:15 | Recap and questions |
-| 9:15 – 10:00 | B mesons, Belle II, and the matter-antimatter mystery |
-| 10:00 – 10:15 | Break |
-| 10:15 – 11:30 | Belle II analysis tutorial: reconstructing decays and plotting invariant mass |
+| 9:00 – 9:30 | Recap and project status check |
+| 9:30 – 10:00 | Science communication: explaining your research to a non-expert |
+| 10:00 – 10:30 | Science communication: building a clear poster story |
+| 10:30 – 10:45 | Coffee break |
+| 10:45 – 11:15 | Science communication: science advocacy |
+| 11:15 – 11:30 | Discussion and questions |
 | 11:30 – 1:30 | Lunch |
-| 1:30 – 3:30 | Team project work: refine analysis, make plots, document results |
-| 3:30 – 4:00 | Science communication: explaining your plot to a non-expert |
+| 1:30 – 3:30 | Team project work: wrap-up analysis and prepare poster |
+| 3:30 – 4:00 | Final poster checklist |
 
 ---
 
-## Thursday, July 16 — Deep Dives & Presentation Prep
+## Friday, July 17 — QuarkNet Masterclass, Posters & Closing
 
-*Use the afternoon to turn project results into posters.*
-
-| Time | Activity |
-|------|----------|
-| 9:00 – 9:15 | Recap and project status check |
-| 9:15 – 10:00 | Neutrino oscillation tutorial: fitting an oscillation pattern |
-| 10:00 – 10:15 | Break |
-| 10:15 – 11:30 | Science communication: building a clear poster story |
-| 11:30 – 1:30 | Lunch |
-| 1:30 – 3:45 | Team project work: poster preparation and presentation practice |
-| 3:45 – 4:00 | Final poster checklist |
-
----
-
-## Friday, July 17 — QuarkNet & Poster Presentations
-
-*Share your project with the group and visiting QuarkNet participants.*
+*Join visiting QuarkNet participants for a Higgs discovery masterclass, present your team's poster, then wrap up the week.*
 
 | Time | Activity |
 |------|----------|
-| 9:00 – 9:30 | Final poster setup and practice |
-| 9:30 – 11:30 | QuarkNet session and student poster presentations |
-| 11:30 – 1:30 | Lunch |
-| 1:30 – 2:30 | Poster presentations continue and group discussion |
-| 2:30 – 3:15 | Panel: what's next in physics, computing, and research |
-| 3:15 – 4:00 | Certificates, photos, and goodbyes |
+| 9:00 – 9:30 | QuarkNet: welcome, coffee, and conversation |
+| 9:30 – 10:30 | QuarkNet: Where is the Higgs? |
+| 10:30 – 11:30 | QuarkNet: Higgs — what have we learned? |
+| 11:30 – 12:30 | Lunch |
+| 12:30 – 3:00 | QuarkNet: masterclass |
+| 3:00 – 3:45 | EPIC graduate school panel discussion |
+| 3:45 – 4:00 | EPIC photo and farewells |
+
+!!! info "Student poster presentations"
+    Friday also includes student poster presentations to the group and visiting QuarkNet participants — exact timing within the day is still being finalized.
 
 !!! note "Schedule may shift"
     We'll adjust timing as the week unfolds. The staff will always let you know about any changes at the start of each day.
