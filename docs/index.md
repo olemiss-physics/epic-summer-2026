@@ -62,11 +62,11 @@ By Friday your team will have plots, a poster, and a project story to share with
 
 | Day | Focus |
 |-----|-------|
-| **Monday** | Welcome, particle physics, NOvA/DUNE/Belle II, and tools setup |
-| **Tuesday** | Neutrino oscillations and team project launch |
-| **Wednesday** | Belle II analysis and project work |
+| **Monday** | Welcome, particle physics, and tools setup (Unix, git, GitHub, Python, Jupyter) |
+| **Tuesday** | Belle II, hadronic physics, and team project launch |
+| **Wednesday** | Neutrino physics and oscillation tutorial |
 | **Thursday** | Science communication and poster preparation |
-| **Friday** | QuarkNet session and poster presentations |
+| **Friday** | QuarkNet Higgs masterclass, student poster presentations, and closing panel |
 
 [:calendar: See the full schedule](schedule.md){ .md-button .md-button--primary }
 [:wrench: Get set up](setup/index.md){ .md-button }
