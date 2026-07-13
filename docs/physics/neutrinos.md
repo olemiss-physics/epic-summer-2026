@@ -93,6 +93,14 @@ Although the Standard Model successfully explains many fundamental particles and
 - The large **far detector** in Minnesota measures it after significant oscillation has occurred
 - By comparing the two detectors, physicists measure the oscillation pattern
 
+### How the NuMI beam is made
+
+- Protons are accelerated to 120 GeV in Fermilab's Main Injector, then fired into a graphite target about a meter long.
+- The collision produces a spray of pions and kaons. Magnetic horns focus them, and they decay in flight — mostly into muons and muon neutrinos.
+- The muons are absorbed downstream; the neutrinos keep travelling, forming the NuMI beam that reaches both the near and far detectors.
+
+![Fermilab accelerator complex, showing the Main Injector, Recycler Ring, Booster, and the beamlines to fixed-target, neutrino, and muon experiments](../assets/images/particles/accelerator.png){ width=420 }
+
 The far detector is a 14,000-tonne block of plastic filled with liquid scintillator — it glows faintly when a rare neutrino interaction occurs.
 
 <div style="display:flex; gap:20px;" markdown>
@@ -174,5 +182,22 @@ By binning events according to distance divided by energy, we map out the wave-l
 $$P(\nu_\mu \rightarrow \nu_\mu) \approx 1 - \sin^2(2\theta_{23}) \sin^2 \left( 1.27 \frac{\Delta m_{32}^2 \cdot L}{E} \right)$$
 
 The NOvA/DUNE notebooks in this program use toy Monte Carlo, not restricted collaboration data. The toy samples are designed to make the same analysis ideas visible: spectra, ratios, fluctuations, and the oscillation dip.
+
+---
+
+## Event displays: seeing a single interaction
+
+A histogram summarizes thousands of events at once. An **event display** shows just one — the raw hits recorded when a single neutrino, or a single cosmic ray, passes through the detector.
+
+<div style="display:flex; gap:20px;" markdown>
+![NOvA event display with detector dimensions labeled: 14 meters long, 3 meters across, top and side views of a single track](../assets/images/particles/eventdisplay_size.png){ width=300 }
+![Two 3D NOvA event displays with their reconstructed-charge histograms below each](../assets/images/particles/3D_eventdisplay.png){ width=300 }
+</div>
+
+Reconstruction software finds the interaction vertex, the direction of each track, and — using the CVN classifier described above — what kind of particle made it. A long, straight track usually means a muon; a short, fuzzy shower usually means an electron.
+
+Most of what the far detector sees isn't neutrinos at all — it's cosmic rays. The image below shows 5 milliseconds of real far-detector data: hundreds of cosmic-ray tracks crossing the 15.6 m × 15.6 m × 60 m detector. This is exactly why analyses apply timing and fiducial-volume cuts — to isolate the rare beam-neutrino interactions from that background.
+
+![5 milliseconds of NOvA far detector data, showing hundreds of cosmic ray tracks crossing the 15.6 by 15.6 by 60 meter detector](../assets/images/particles/eventdis_cosmic.png){ width=500 }
 
 *Ready to see the data? We'll work through the neutrino tutorial together during the program.*
