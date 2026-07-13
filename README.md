@@ -1,9 +1,15 @@
 # EPIC Summer 2026 — Website
 
+[![Deploy site to GitHub Pages](https://github.com/olemiss-physics/epic-summer-2026/actions/workflows/deploy.yml/badge.svg)](https://github.com/olemiss-physics/epic-summer-2026/actions/workflows/deploy.yml)
+[![Latest release](https://img.shields.io/github/v/release/olemiss-physics/epic-summer-2026)](https://github.com/olemiss-physics/epic-summer-2026/releases/latest)
+[![Live site](https://img.shields.io/badge/live%20site-olemiss--physics.github.io-blue)](https://olemiss-physics.github.io/epic-summer-2026/)
+
 Source for the EPIC Summer 2026 program website, built with [Zensical](https://zensical.org) (the successor to MkDocs Material, reading the same `mkdocs.yml` config).
 
 **EPIC: Exploring Particle Physics Integrated with Computing**
 University of Mississippi — July 13–17, 2026
+
+![Homepage screenshot](.github/readme-assets/homepage.png)
 
 ## Local preview
 
