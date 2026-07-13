@@ -50,6 +50,30 @@ Jeremy teaches physics at the University of Southern Mississippi. His areas of e
 </div>
 </div>
 
+<div class="team-card" markdown>
+<div class="team-photo placeholder"></div>
+<div class="team-info" markdown>
+
+### Dr. Daniel Souza Correia
+**Postdoctoral Research Associate, Physics & Astronomy**
+
+Daniel is a postdoc working on [DUNE](https://www.dunescience.org) data management, helping build the software infrastructure that moves and organizes experiment data. He helps support participants throughout the week.
+
+</div>
+</div>
+
+<div class="team-card" markdown>
+<div class="team-photo placeholder"></div>
+<div class="team-info" markdown>
+
+### Dr. Johan A. Colorado Caicedo
+**Postdoctoral Research Associate, Physics & Astronomy**
+
+Johan is a postdoc working on [Belle II](https://www.belle2.org) data management, helping build the software infrastructure that moves and organizes experiment data. He helps support participants throughout the week.
+
+</div>
+</div>
+
 <div class="team-card placeholder-card" markdown>
 <div class="team-photo placeholder"></div>
 <div class="team-info" markdown>
