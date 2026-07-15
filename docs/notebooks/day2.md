@@ -2,23 +2,22 @@
 
 **Tuesday, July 14**
 
-Why is there more matter than antimatter in the universe? If the Big Bang produced equal amounts of both, they should have annihilated each other — leaving nothing. The fact that *we exist* means something must have broken that symmetry. Today you'll look for that asymmetry in data from the Belle II experiment.
+Why is there more matter than antimatter in the universe? If the Big Bang produced equal amounts of both, they should have annihilated each other — leaving nothing. The fact that *we exist* means something must have broken that symmetry. Today you'll meet the Belle II experiment, which looks for that asymmetry, and start your team's own project with real Belle II data.
 
 ---
 
 ## What you'll do
 
-- Load Belle II data and reconstruct B meson candidate decays
-- Plot the **invariant mass** spectrum and identify the B meson signal peak
-- Measure the **CP asymmetry** — the difference in decay rates between B and B̄ mesons
-- Understand what that asymmetry tells us about the matter-antimatter puzzle
+- Learn the physics case for Belle II and how the detector is built to study it
+- Work through a guided Belle II analysis tutorial together
+- Form a team and get assigned one of several different Belle II projects
+- Start exploring your team's own dataset and defining your analysis questions
 
 ## What you'll learn
 
-- What a B meson is and how it's produced at Belle II
-- What "reconstructing a decay" means — and why it's like working backwards from debris
-- What invariant mass is and why it reveals particle identities
-- What CP violation is and why it matters for the existence of the universe
+- What a B meson is and why Belle II studies it
+- The Belle II detector subsystems and how they work together
+- The basics of working with real Belle II data in a notebook
 
 ---
 
@@ -28,20 +27,8 @@ Notebook repository details will be added once the materials are finalized.
 
 ---
 
-## Notebook outline
-
-1. **What is a B meson?** — key concepts and the Belle II experiment
-2. **Loading the data** — decay candidate events
-3. **Invariant mass** — calculating and plotting M(B)
-4. **Finding the signal** — fitting or counting the B meson peak
-5. **The B/B̄ asymmetry** — splitting by charge and measuring the difference
-6. **What does it mean?** — interpreting your result in the context of CP violation
-7. **Extension exercises** — try different decay modes or selections
-
----
-
 !!! info "Background reading"
     See [B Mesons & CP Violation](../physics/bphysics.md) in the Physics Background section for more context.
 
-!!! tip "Your deliverable for Friday"
-    Two plots: (1) the invariant mass spectrum showing your B meson signal, and (2) a bar chart or histogram showing the B vs. B̄ event counts and the asymmetry value. Save both before you push to GitHub.
+!!! tip "Different teams, different projects"
+    Not every team will be doing the same analysis. After today's tutorial, you'll be assigned to a team with its own specific Belle II project — the details of what you'll measure and how depend on which project your team gets.
