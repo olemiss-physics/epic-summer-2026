@@ -9,7 +9,7 @@ Notebook repository details will be added once the materials are finalized.
 | Day | Notebook | Topic |
 |-----|----------|-------|
 | Monday | [Notebook 1](day1.md) | Welcome, tools setup, first histogram |
-| Tuesday | [Notebook 2](day2.md) | B meson decays and invariant mass |
+| Tuesday | [Notebook 2](day2.md) | Belle II tutorial, then team project assignment |
 | Wednesday | [Notebook 3](day3.md) | Neutrino energy spectra |
 | Thursday | [Notebook 4](day4.md) | Science communication and poster prep |
 
