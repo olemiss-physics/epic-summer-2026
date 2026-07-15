@@ -57,7 +57,7 @@ Jeremy teaches physics at the University of Southern Mississippi. His areas of e
 ### Prof. Breese Quinn
 **Professor, Physics & Astronomy**
 
-Breese works on the [Muon g-2](https://muon-g-2.fnal.gov) experiment, precisely measuring the muon's magnetic moment to search for physics beyond the Standard Model, and has recently joined the [DUNE](https://www.dunescience.org) collaboration.
+Prof. Quinn works on the [Muon g-2](https://muon-g-2.fnal.gov) experiment, precisely measuring the muon's magnetic moment to search for physics beyond the Standard Model, and has recently joined the [DUNE](https://www.dunescience.org) collaboration.
 
 </div>
 </div>
