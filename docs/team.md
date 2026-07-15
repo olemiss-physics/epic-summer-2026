@@ -54,6 +54,18 @@ Jeremy teaches physics at the University of Southern Mississippi. His areas of e
 <div class="team-photo placeholder"></div>
 <div class="team-info" markdown>
 
+### Prof. Breese Quinn
+**Professor, Physics & Astronomy**
+
+Breese works on the [Muon g-2](https://muon-g-2.fnal.gov) experiment, precisely measuring the muon's magnetic moment to search for physics beyond the Standard Model, and has recently joined the [DUNE](https://www.dunescience.org) collaboration.
+
+</div>
+</div>
+
+<div class="team-card" markdown>
+<div class="team-photo placeholder"></div>
+<div class="team-info" markdown>
+
 ### Dr. Daniel Souza Correia
 **Postdoctoral Research Associate, Physics & Astronomy**
 
@@ -74,14 +86,26 @@ Johan is a postdoc working on [Belle II](https://www.belle2.org) data management
 </div>
 </div>
 
-<div class="team-card placeholder-card" markdown>
+<div class="team-card" markdown>
 <div class="team-photo placeholder"></div>
 <div class="team-info" markdown>
 
-### *Graduate Student TBD*
-**PhD Researcher**
+### Logan Benninghoff
+**PhD Researcher, Belle II**
 
-A graduate student from our group will help mentor participants through the hands-on analysis sessions.
+Logan is a graduate student working on the [Belle II](https://www.belle2.org) experiment. He leads the Unix command-line tutorial and helps mentor teams through their project work.
+
+</div>
+</div>
+
+<div class="team-card" markdown>
+<div class="team-photo placeholder"></div>
+<div class="team-info" markdown>
+
+### Paul Gebeline
+**PhD Researcher, Belle II**
+
+Paul is a graduate student working on the [Belle II](https://www.belle2.org) experiment. He leads the Python tutorial and helps mentor teams through their project work.
 
 </div>
 </div>
