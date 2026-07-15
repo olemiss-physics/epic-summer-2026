@@ -9,7 +9,7 @@
 ### Dr. Gavin S. Davies
 **Associate Professor, Physics & Astronomy**
 
-Gavin works on the [DUNE](https://www.dunescience.org) experiment, studying three-flavour neutrino oscillations and searching for non-standard neutrino interactions.
+Dr. Davies works on the [DUNE](https://www.dunescience.org) experiment, studying three-flavour neutrino oscillations and searching for non-standard neutrino interactions.
 
 </div>
 </div>
@@ -21,7 +21,7 @@ Gavin works on the [DUNE](https://www.dunescience.org) experiment, studying thre
 ### Dr. Jake V. Bennett
 **Associate Professor, Physics & Astronomy**
 
-Jake works on the [Belle II](https://www.belle2.org) experiment at the SuperKEKB collider in Japan, measuring CP violation in charmed baryon decays and probing the matter-antimatter asymmetry of the universe.
+Dr. Bennett works on the [Belle II](https://www.belle2.org) experiment at the SuperKEKB collider in Japan, measuring CP violation in charmed baryon decays and probing the matter-antimatter asymmetry of the universe.
 
 </div>
 </div>
@@ -45,7 +45,7 @@ Suyog is an undergraduate physics student working on neutrino oscillation analys
 ### Prof. Jeremy Scott
 **Associate Teaching Professor, University of Southern Mississippi**
 
-Jeremy teaches physics at the University of Southern Mississippi. His areas of expertise include particle physics, nuclear physics, scattering, high-energy physics, and relativity.
+Prof. Scott teaches physics at the University of Southern Mississippi. His areas of expertise include particle physics, nuclear physics, scattering, high-energy physics, and relativity.
 
 </div>
 </div>
@@ -69,7 +69,7 @@ Prof. Quinn works on the [Muon g-2](https://muon-g-2.fnal.gov) experiment, preci
 ### Dr. Daniel Souza Correia
 **Postdoctoral Research Associate, Physics & Astronomy**
 
-Daniel is a postdoc working on [DUNE](https://www.dunescience.org) data management, helping build the software infrastructure that moves and organizes experiment data. He helps support participants throughout the week.
+Dr. Correia is a postdoc working on [DUNE](https://www.dunescience.org) data management, helping build the software infrastructure that moves and organizes experiment data. He helps support participants throughout the week.
 
 </div>
 </div>
@@ -81,7 +81,7 @@ Daniel is a postdoc working on [DUNE](https://www.dunescience.org) data manageme
 ### Dr. Johan A. Colorado Caicedo
 **Postdoctoral Research Associate, Physics & Astronomy**
 
-Johan is a postdoc working on [Belle II](https://www.belle2.org) data management, helping build the software infrastructure that moves and organizes experiment data. He helps support participants throughout the week.
+Dr. Caicedo is a postdoc working on [Belle II](https://www.belle2.org) data management, helping build the software infrastructure that moves and organizes experiment data. He helps support participants throughout the week.
 
 </div>
 </div>
