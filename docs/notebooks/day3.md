@@ -1,47 +1,53 @@
-# Day 3: B-Meson Physics
+# Day 3: Neutrino Physics
 
 **Wednesday, July 15**
 
-Why is there more matter than antimatter in the universe? If the Big Bang produced equal amounts of both, they should have annihilated each other — leaving nothing. The fact that *we exist* means something must have broken that symmetry. Today you'll look for that asymmetry in data from the Belle II experiment.
+Neutrinos are among the most abundant particles in the universe — and among the strangest. They barely interact with anything, yet they manage to spontaneously *change identity* as they travel. Today you'll see that effect in real data.
 
 ---
 
 ## What you'll do
 
-- Load Belle II data and reconstruct B meson candidate decays
-- Plot the **invariant mass** spectrum and identify the B meson signal peak
-- Measure the **CP asymmetry** — the difference in decay rates between B and B̄ mesons
-- Understand what that asymmetry tells us about the matter-antimatter puzzle
+- Load a real (toy) neutrino energy spectrum from the NOvA experiment
+- Make histograms of energy deposits in the near and far detectors
+- Compare the two spectra and see the oscillation "dip" appear
+- Start to quantify the difference between the two distributions
 
 ## What you'll learn
 
-- What a B meson is and how it's produced at Belle II
-- What "reconstructing a decay" means — and why it's like working backwards from debris
-- What invariant mass is and why it reveals particle identities
-- What CP violation is and why it matters for the existence of the universe
+- What a neutrino is and why it's so hard to detect
+- How neutrino "flavors" work and what oscillation means
+- How to compare two distributions on the same histogram
+- What a ratio plot is and why physicists use them
 
 ---
 
 ## Open the notebook
 
-Notebook repository details will be added once the materials are finalized.
+**[`neutrino_part1_oscillation_spectra.ipynb`](https://github.com/mesh-collab/epic-curriculum/blob/main/notebooks/neutrino_part1_oscillation_spectra.ipynb)** in the [`mesh-collab/epic-curriculum`](https://github.com/mesh-collab/epic-curriculum) repository. See the repo's `README.md` for setup instructions (`uv sync` + the `EPIC Curriculum` Jupyter kernel).
 
 ---
 
 ## Notebook outline
 
-1. **What is a B meson?** — key concepts and the Belle II experiment
-2. **Loading the data** — decay candidate events
-3. **Invariant mass** — calculating and plotting M(B)
-4. **Finding the signal** — fitting or counting the B meson peak
-5. **The B/B̄ asymmetry** — splitting by charge and measuring the difference
-6. **What does it mean?** — interpreting your result in the context of CP violation
-7. **Extension exercises** — try different decay modes or selections
+1. **What is a neutrino?** — a short reading with key concepts
+2. **Building the near/far spectra** — `nuosclab` presets for NOvA (and DUNE) generate the toy near and far detector energy spectra
+3. **Near detector spectrum** — histogram of neutrino energies before oscillation
+4. **Far detector spectrum** — the same, after oscillation, with Poisson toy-statistics fluctuations
+5. **Comparing the two** — overlay plots and ratio plots
+6. **The oscillation dip** — finding and measuring the drop in event rate
+7. **Extension exercises** — go further if you finish early
 
 ---
 
 !!! info "Background reading"
-    See [B Mesons & CP Violation](../physics/bphysics.md) in the Physics Background section for more context.
+    For more context on the physics before or after the notebook, see [Neutrinos](../physics/neutrinos.md) in the Physics Background section.
 
 !!! tip "Your deliverable for Friday"
-    Two plots: (1) the invariant mass spectrum showing your B meson signal, and (2) a bar chart or histogram showing the B vs. B̄ event counts and the asymmetry value. Save both before you push to GitHub.
+    Your final plot for this analysis is a histogram with both the near and far detector spectra overlaid, clearly labelled, with the oscillation dip visible. Keep this in mind as you work through the notebook — the exercises build toward it.
+
+!!! tip "Finished early? Go further"
+    Two extension notebooks in the same repository build on today's tutorial:
+
+    - **[`neutrino_part2_parameter_explorer.ipynb`](https://github.com/mesh-collab/epic-curriculum/blob/main/notebooks/neutrino_part2_parameter_explorer.ipynb)** — turns today's spectrum into a parameter study: vary θ₂₃, Δm²₃₂, and δCP and see how the oscillation pattern responds.
+    - **[`neutrino_bonus_nsi_explorer.ipynb`](https://github.com/mesh-collab/epic-curriculum/blob/main/notebooks/neutrino_bonus_nsi_explorer.ipynb)** — is there a small new-physics effect (a Non-Standard Interaction) hiding under the standard three-flavor picture?

@@ -36,12 +36,13 @@ Location: **Duff Center for Science and Technology Innovation (CSTI), rooms 135/
 | Time | Activity |
 |------|----------|
 | 9:00 – 9:15 | Recap and questions |
-| 9:15 – 10:15 | Hadronic physics, Belle II, and the matter-antimatter asymmetry |
+| 9:15 – 9:45 | Hadronic physics, Belle II, and the matter-antimatter asymmetry |
+| 9:45 – 10:15 | Belle II detector subsystems |
 | 10:15 – 10:30 | Coffee break |
-| 10:30 – 11:30 | Belle II analysis tutorial |
+| 10:30 – 11:15 | Belle II analysis tutorial |
+| 11:15 – 11:30 | Team formation and project assignment |
 | 11:30 – 1:30 | Lunch |
-| 1:30 – 1:45 | Team formation and project assignment |
-| 1:45 – 3:30 | Team project work: data, questions, and first plots |
+| 1:30 – 3:30 | Team project work: data, questions, and first plots |
 | 3:30 – 4:00 | Team check-in and wrap-up |
 
 ---

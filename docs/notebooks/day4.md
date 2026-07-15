@@ -1,23 +1,11 @@
-# Day 4: Deep Dives
+# Day 4: Science Communication & Poster Prep
 
 **Thursday, July 16**
 
-Today starts with one more neutrino oscillation tutorial, then shifts into science communication and poster preparation. In the afternoon, your team will turn its Belle II project results into a poster for Friday.
+Today is about turning your project results into a poster and practicing how to tell its story. In the afternoon, your team will turn its Belle II project results into a poster for Friday.
 
----
-
-## Morning tutorial: neutrino oscillations
-
-**Fitting an oscillation pattern**
-
-Go beyond the basic comparison and fit a theoretical oscillation curve to your data. You'll:
-
-- Load the complete near and far detector datasets
-- Compute the ratio of far/near as a function of energy
-- Overlay the theoretical prediction using the oscillation formula
-- Explore how changing θ₂₃ and Δm²₃₂ changes the oscillation pattern
-
-Notebook repository details will be added once the materials are finalized.
+!!! tip "Still want to explore neutrino oscillations further?"
+    Wednesday's [neutrino notebook page](day3.md) links two extension notebooks — a `nuosclab` parameter explorer (θ₂₃, Δm²₃₂, δCP) and a Non-Standard-Interaction bonus notebook — if you want to keep digging on your own time.
 
 ---
 
